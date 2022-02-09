@@ -1,0 +1,7818 @@
+{
+  "pokemon_list": [
+    {
+      "name": "Bulbasaur",
+      "base_health": 100,
+      "types": ["planta", "veneno"],
+      "attacks": [
+        {
+          "name": "Placaje",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Gruñido",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Drenadoras",
+          "attack_type": "planta",
+          "min_level": 7,
+          "damage": 30
+        },
+        {
+          "name": "Látigo Cepa",
+          "attack_type": "planta",
+          "min_level": 13,
+          "damage": 45
+        },
+        {
+          "name": "Polvo Veneno",
+          "attack_type": "veneno",
+          "min_level": 20,
+          "damage": 30
+        },
+        {
+          "name": "Hoja Afilada",
+          "attack_type": "planta",
+          "min_level": 27,
+          "damage": 55
+        },
+        {
+          "name": "Desarrollo",
+          "attack_type": "normal",
+          "min_level": 34,
+          "damage": 30
+        },
+        {
+          "name": "Somnífero",
+          "attack_type": "planta",
+          "min_level": 41,
+          "damage": 30
+        },
+        {
+          "name": "Rayo Solar",
+          "attack_type": "planta",
+          "min_level": 48,
+          "damage": 120
+        }
+      ]
+    },
+    {
+      "name": "Ivysaur",
+      "health": 50,
+      "base_health": 100,
+      "types": ["planta", "veneno"],
+      "attacks": [
+        {
+          "name": "Placaje",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Gruñido",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Drenadoras",
+          "attack_type": "planta",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Drenadoras",
+          "attack_type": "planta",
+          "min_level": 7,
+          "damage": 30
+        },
+        {
+          "name": "Látigo Cepa",
+          "attack_type": "planta",
+          "min_level": 13,
+          "damage": 45
+        },
+        {
+          "name": "Polvo Veneno",
+          "attack_type": "veneno",
+          "min_level": 22,
+          "damage": 30
+        },
+        {
+          "name": "Hoja Afilada",
+          "attack_type": "planta",
+          "min_level": 30,
+          "damage": 55
+        },
+        {
+          "name": "Desarrollo",
+          "attack_type": "normal",
+          "min_level": 38,
+          "damage": 30
+        },
+        {
+          "name": "Somnífero",
+          "attack_type": "planta",
+          "min_level": 46,
+          "damage": 30
+        },
+        {
+          "name": "Rayo Solar",
+          "attack_type": "planta",
+          "min_level": 54,
+          "damage": 120
+        }
+      ]
+    },
+    {
+      "name": "Venusaur",
+      "base_health": 100,
+      "types": ["planta", "veneno"],
+      "attacks": [
+        {
+          "name": "Placaje",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Gruñido",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Drenadoras",
+          "attack_type": "planta",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Látigo Cepa",
+          "attack_type": "planta",
+          "min_level": 1,
+          "damage": 45
+        },
+        {
+          "name": "Drenadoras",
+          "attack_type": "planta",
+          "min_level": 7,
+          "damage": 30
+        },
+        {
+          "name": "Látigo Cepa",
+          "attack_type": "planta",
+          "min_level": 13,
+          "damage": 45
+        },
+        {
+          "name": "Polvo Veneno",
+          "attack_type": "veneno",
+          "min_level": 22,
+          "damage": 30
+        },
+        {
+          "name": "Hoja Afilada",
+          "attack_type": "planta",
+          "min_level": 30,
+          "damage": 55
+        },
+        {
+          "name": "Desarrollo",
+          "attack_type": "normal",
+          "min_level": 43,
+          "damage": 30
+        },
+        {
+          "name": "Somnífero",
+          "attack_type": "planta",
+          "min_level": 55,
+          "damage": 30
+        },
+        {
+          "name": "Rayo Solar",
+          "attack_type": "planta",
+          "min_level": 65,
+          "damage": 120
+        }
+      ]
+    },
+    {
+      "name": "Charmander",
+      "base_health": 100,
+      "types": ["fuego"],
+      "attacks": [
+        {
+          "name": "Arañazo",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Gruñido",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Ascuas",
+          "attack_type": "fuego",
+          "min_level": 9,
+          "damage": 40
+        },
+        {
+          "name": "Malicioso",
+          "attack_type": "normal",
+          "min_level": 15,
+          "damage": 30
+        },
+        {
+          "name": "Furia",
+          "attack_type": "normal",
+          "min_level": 22,
+          "damage": 20
+        },
+        {
+          "name": "Cuchillada",
+          "attack_type": "normal",
+          "min_level": 30,
+          "damage": 70
+        },
+        {
+          "name": "Lanzallamas",
+          "attack_type": "fuego",
+          "min_level": 38,
+          "damage": 90
+        },
+        {
+          "name": "Giro Fuego",
+          "attack_type": "fuego",
+          "min_level": 46,
+          "damage": 35
+        }
+      ]
+    },
+    {
+      "name": "Charmeleon",
+      "base_health": 100,
+      "types": ["fuego"],
+      "attacks": [
+        {
+          "name": "Arañazo",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Gruñido",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Ascuas",
+          "attack_type": "fuego",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Ascuas",
+          "attack_type": "fuego",
+          "min_level": 9,
+          "damage": 40
+        },
+        {
+          "name": "Malicioso",
+          "attack_type": "normal",
+          "min_level": 15,
+          "damage": 30
+        },
+        {
+          "name": "Furia",
+          "attack_type": "normal",
+          "min_level": 24,
+          "damage": 20
+        },
+        {
+          "name": "Cuchillada",
+          "attack_type": "normal",
+          "min_level": 33,
+          "damage": 70
+        },
+        {
+          "name": "Lanzallamas",
+          "attack_type": "fuego",
+          "min_level": 42,
+          "damage": 90
+        },
+        {
+          "name": "Giro Fuego",
+          "attack_type": "fuego",
+          "min_level": 56,
+          "damage": 35
+        }
+      ]
+    },
+    {
+      "name": "Charizard",
+      "base_health": 100,
+      "types": ["fuego", "volador"],
+      "attacks": [
+        {
+          "name": "Arañazo",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Gruñido",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Ascuas",
+          "attack_type": "fuego",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Malicioso",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Ascuas",
+          "attack_type": "fuego",
+          "min_level": 9,
+          "damage": 40
+        },
+        {
+          "name": "Malicioso",
+          "attack_type": "normal",
+          "min_level": 15,
+          "damage": 30
+        },
+        {
+          "name": "Furia",
+          "attack_type": "normal",
+          "min_level": 24,
+          "damage": 20
+        },
+        {
+          "name": "Cuchillada",
+          "attack_type": "normal",
+          "min_level": 36,
+          "damage": 70
+        },
+        {
+          "name": "Lanzallamas",
+          "attack_type": "fuego",
+          "min_level": 46,
+          "damage": 90
+        },
+        {
+          "name": "Giro Fuego",
+          "attack_type": "fuego",
+          "min_level": 55,
+          "damage": 35
+        }
+      ]
+    },
+    {
+      "name": "Squirtle",
+      "base_health": 100,
+      "types": ["agua"],
+      "attacks": [
+        {
+          "name": "Placaje",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Látigo",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Burbuja",
+          "attack_type": "agua",
+          "min_level": 8,
+          "damage": 40
+        },
+        {
+          "name": "Pistola Agua",
+          "attack_type": "agua",
+          "min_level": 15,
+          "damage": 40
+        },
+        {
+          "name": "Mordisco",
+          "attack_type": "siniestro",
+          "min_level": 22,
+          "damage": 60
+        },
+        {
+          "name": "Refugio",
+          "attack_type": "agua",
+          "min_level": 28,
+          "damage": 30
+        },
+        {
+          "name": "Cabezazo",
+          "attack_type": "normal",
+          "min_level": 35,
+          "damage": 130
+        },
+        {
+          "name": "Hidrobomba",
+          "attack_type": "agua",
+          "min_level": 42,
+          "damage": 110
+        }
+      ]
+    },
+    {
+      "name": "Wartortle",
+      "base_health": 100,
+      "types": ["agua"],
+      "attacks": [
+        {
+          "name": "Placaje",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Látigo",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Burbuja",
+          "attack_type": "agua",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Burbuja",
+          "attack_type": "agua",
+          "min_level": 8,
+          "damage": 40
+        },
+        {
+          "name": "Pistola Agua",
+          "attack_type": "agua",
+          "min_level": 15,
+          "damage": 40
+        },
+        {
+          "name": "Mordisco",
+          "attack_type": "siniestro",
+          "min_level": 24,
+          "damage": 60
+        },
+        {
+          "name": "Refugio",
+          "attack_type": "agua",
+          "min_level": 31,
+          "damage": 30
+        },
+        {
+          "name": "Cabezazo",
+          "attack_type": "normal",
+          "min_level": 39,
+          "damage": 130
+        },
+        {
+          "name": "Hidrobomba",
+          "attack_type": "agua",
+          "min_level": 47,
+          "damage": 110
+        }
+      ]
+    },
+    {
+      "name": "Blastoise",
+      "base_health": 100,
+      "types": ["agua"],
+      "attacks": [
+        {
+          "name": "Placaje",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Látigo",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Burbuja",
+          "attack_type": "agua",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Pistola Agua",
+          "attack_type": "agua",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Burbuja",
+          "attack_type": "agua",
+          "min_level": 8,
+          "damage": 40
+        },
+        {
+          "name": "Pistola Agua",
+          "attack_type": "agua",
+          "min_level": 15,
+          "damage": 40
+        },
+        {
+          "name": "Mordisco",
+          "attack_type": "siniestro",
+          "min_level": 24,
+          "damage": 60
+        },
+        {
+          "name": "Refugio",
+          "attack_type": "agua",
+          "min_level": 31,
+          "damage": 30
+        },
+        {
+          "name": "Cabezazo",
+          "attack_type": "normal",
+          "min_level": 42,
+          "damage": 130
+        },
+        {
+          "name": "Hidrobomba",
+          "attack_type": "agua",
+          "min_level": 52,
+          "damage": 110
+        }
+      ]
+    },
+    {
+      "name": "Caterpie",
+      "base_health": 100,
+      "types": ["bicho"],
+      "attacks": [
+        {
+          "name": "Placaje",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Disparo Demora",
+          "attack_type": "bicho",
+          "min_level": 1,
+          "damage": 30
+        }
+      ]
+    },
+    {
+      "name": "Metapod",
+      "base_health": 100,
+      "types": ["bicho"],
+      "attacks": [
+        {
+          "name": "Fortaleza",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Fortaleza",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        }
+      ]
+    },
+    {
+      "name": "Butterfree",
+      "base_health": 100,
+      "types": ["bicho", "volador"],
+      "attacks": [
+        {
+          "name": "Confusión",
+          "attack_type": "psiquico",
+          "min_level": 1,
+          "damage": 50
+        },
+        {
+          "name": "Confusión",
+          "attack_type": "psiquico",
+          "min_level": 12,
+          "damage": 50
+        },
+        {
+          "name": "Polvo Veneno",
+          "attack_type": "veneno",
+          "min_level": 15,
+          "damage": 30
+        },
+        {
+          "name": "Paralizador",
+          "attack_type": "planta",
+          "min_level": 16,
+          "damage": 30
+        },
+        {
+          "name": "Somnífero",
+          "attack_type": "planta",
+          "min_level": 17,
+          "damage": 30
+        },
+        {
+          "name": "Supersónico",
+          "attack_type": "normal",
+          "min_level": 21,
+          "damage": 30
+        },
+        {
+          "name": "Remolino",
+          "attack_type": "normal",
+          "min_level": 26,
+          "damage": 30
+        },
+        {
+          "name": "Tornado",
+          "attack_type": "volador",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Psicorrayo",
+          "attack_type": "psiquico",
+          "min_level": 32,
+          "damage": 65
+        }
+      ]
+    },
+    {
+      "name": "Weedle",
+      "base_health": 100,
+      "types": ["bicho", "veneno"],
+      "attacks": [
+        {
+          "name": "Picotazo Ven",
+          "attack_type": "veneno",
+          "min_level": 1,
+          "damage": 15
+        },
+        {
+          "name": "Disparo Demora",
+          "attack_type": "bicho",
+          "min_level": 1,
+          "damage": 30
+        }
+      ]
+    },
+    {
+      "name": "Kakuna",
+      "base_health": 100,
+      "types": ["bicho", "veneno"],
+      "attacks": [
+        {
+          "name": "Fortaleza",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        }
+      ]
+    },
+    {
+      "name": "Beedrill",
+      "base_health": 100,
+      "types": ["bicho", "veneno"],
+      "attacks": [
+        {
+          "name": "Ataque Furia",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 15
+        },
+        {
+          "name": "Ataque Furia",
+          "attack_type": "normal",
+          "min_level": 12,
+          "damage": 15
+        },
+        {
+          "name": "Foco Energía",
+          "attack_type": "normal",
+          "min_level": 16,
+          "damage": 30
+        },
+        {
+          "name": "Doble Ataque",
+          "attack_type": "bicho",
+          "min_level": 20,
+          "damage": 25
+        },
+        {
+          "name": "Furia",
+          "attack_type": "normal",
+          "min_level": 25,
+          "damage": 20
+        },
+        {
+          "name": "Pin Misil",
+          "attack_type": "bicho",
+          "min_level": 30,
+          "damage": 25
+        },
+        {
+          "name": "Agilidad",
+          "attack_type": "psiquico",
+          "min_level": 35,
+          "damage": 30
+        }
+      ]
+    },
+    {
+      "name": "Pidgey",
+      "base_health": 100,
+      "types": ["normal", "volador"],
+      "attacks": [
+        {
+          "name": "Tornado",
+          "attack_type": "volador",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Ataque Arena",
+          "attack_type": "tierra",
+          "min_level": 5,
+          "damage": 30
+        },
+        {
+          "name": "Ataque Rápido",
+          "attack_type": "normal",
+          "min_level": 12,
+          "damage": 40
+        },
+        {
+          "name": "Remolino",
+          "attack_type": "normal",
+          "min_level": 19,
+          "damage": 30
+        },
+        {
+          "name": "Ataque Ala",
+          "attack_type": "volador",
+          "min_level": 28,
+          "damage": 60
+        },
+        {
+          "name": "Agilidad",
+          "attack_type": "psiquico",
+          "min_level": 36,
+          "damage": 30
+        },
+        {
+          "name": "Mov. Espejo",
+          "attack_type": "volador",
+          "min_level": 44,
+          "damage": 30
+        }
+      ]
+    },
+    {
+      "name": "Pidgeotto",
+      "base_health": 100,
+      "types": ["normal", "volador"],
+      "attacks": [
+        {
+          "name": "Tornado",
+          "attack_type": "volador",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Ataque Arena",
+          "attack_type": "tierra",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Ataque Arena",
+          "attack_type": "tierra",
+          "min_level": 5,
+          "damage": 30
+        },
+        {
+          "name": "Ataque Rápido",
+          "attack_type": "normal",
+          "min_level": 12,
+          "damage": 40
+        },
+        {
+          "name": "Remolino",
+          "attack_type": "normal",
+          "min_level": 21,
+          "damage": 30
+        },
+        {
+          "name": "Ataque Ala",
+          "attack_type": "volador",
+          "min_level": 31,
+          "damage": 60
+        },
+        {
+          "name": "Agilidad",
+          "attack_type": "psiquico",
+          "min_level": 40,
+          "damage": 30
+        },
+        {
+          "name": "Mov. Espejo",
+          "attack_type": "volador",
+          "min_level": 49,
+          "damage": 30
+        }
+      ]
+    },
+    {
+      "name": "Pidgeot",
+      "base_health": 100,
+      "types": ["normal", "volador"],
+      "attacks": [
+        {
+          "name": "Tornado",
+          "attack_type": "volador",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Ataque Arena",
+          "attack_type": "tierra",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Ataque Rápido",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Ataque Arena",
+          "attack_type": "tierra",
+          "min_level": 5,
+          "damage": 30
+        },
+        {
+          "name": "Ataque Rápido",
+          "attack_type": "normal",
+          "min_level": 12,
+          "damage": 40
+        },
+        {
+          "name": "Remolino",
+          "attack_type": "normal",
+          "min_level": 21,
+          "damage": 30
+        },
+        {
+          "name": "Ataque Ala",
+          "attack_type": "volador",
+          "min_level": 31,
+          "damage": 60
+        },
+        {
+          "name": "Agilidad",
+          "attack_type": "psiquico",
+          "min_level": 44,
+          "damage": 30
+        },
+        {
+          "name": "Mov. Espejo",
+          "attack_type": "volador",
+          "min_level": 54,
+          "damage": 30
+        }
+      ]
+    },
+    {
+      "name": "Rattata",
+      "base_health": 100,
+      "types": ["normal"],
+      "attacks": [
+        {
+          "name": "Placaje",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Látigo",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Ataque Rápido",
+          "attack_type": "normal",
+          "min_level": 7,
+          "damage": 40
+        },
+        {
+          "name": "Hipercolmillo",
+          "attack_type": "normal",
+          "min_level": 14,
+          "damage": 80
+        },
+        {
+          "name": "Foco Energía",
+          "attack_type": "normal",
+          "min_level": 23,
+          "damage": 30
+        },
+        {
+          "name": "Superdiente",
+          "attack_type": "normal",
+          "min_level": 34,
+          "damage": 1
+        }
+      ]
+    },
+    {
+      "name": "Raticate",
+      "base_health": 100,
+      "types": ["normal"],
+      "attacks": [
+        {
+          "name": "Placaje",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Látigo",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Ataque Rápido",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Ataque Rápido",
+          "attack_type": "normal",
+          "min_level": 7,
+          "damage": 40
+        },
+        {
+          "name": "Hipercolmillo",
+          "attack_type": "normal",
+          "min_level": 14,
+          "damage": 80
+        },
+        {
+          "name": "Foco Energía",
+          "attack_type": "normal",
+          "min_level": 27,
+          "damage": 30
+        },
+        {
+          "name": "Superdiente",
+          "attack_type": "normal",
+          "min_level": 41,
+          "damage": 1
+        }
+      ]
+    },
+    {
+      "name": "Spearow",
+      "base_health": 100,
+      "types": ["normal", "volador"],
+      "attacks": [
+        {
+          "name": "Picotazo",
+          "attack_type": "volador",
+          "min_level": 1,
+          "damage": 35
+        },
+        {
+          "name": "Gruñido",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Malicioso",
+          "attack_type": "normal",
+          "min_level": 9,
+          "damage": 30
+        },
+        {
+          "name": "Ataque Furia",
+          "attack_type": "normal",
+          "min_level": 15,
+          "damage": 15
+        },
+        {
+          "name": "Mov. Espejo",
+          "attack_type": "volador",
+          "min_level": 22,
+          "damage": 30
+        },
+        {
+          "name": "Pico Taladro",
+          "attack_type": "volador",
+          "min_level": 29,
+          "damage": 80
+        },
+        {
+          "name": "Agilidad",
+          "attack_type": "psiquico",
+          "min_level": 36,
+          "damage": 30
+        }
+      ]
+    },
+    {
+      "name": "Fearow",
+      "base_health": 100,
+      "types": ["normal", "volador"],
+      "attacks": [
+        {
+          "name": "Picotazo",
+          "attack_type": "volador",
+          "min_level": 1,
+          "damage": 35
+        },
+        {
+          "name": "Gruñido",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Malicioso",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Malicioso",
+          "attack_type": "normal",
+          "min_level": 9,
+          "damage": 30
+        },
+        {
+          "name": "Ataque Furia",
+          "attack_type": "normal",
+          "min_level": 15,
+          "damage": 15
+        },
+        {
+          "name": "Mov. Espejo",
+          "attack_type": "volador",
+          "min_level": 25,
+          "damage": 30
+        },
+        {
+          "name": "Pico Taladro",
+          "attack_type": "volador",
+          "min_level": 34,
+          "damage": 80
+        },
+        {
+          "name": "Agilidad",
+          "attack_type": "psiquico",
+          "min_level": 43,
+          "damage": 30
+        }
+      ]
+    },
+    {
+      "name": "Ekans",
+      "base_health": 100,
+      "types": ["veneno"],
+      "attacks": [
+        {
+          "name": "Constricción",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 15
+        },
+        {
+          "name": "Malicioso",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Picotazo Ven",
+          "attack_type": "veneno",
+          "min_level": 10,
+          "damage": 15
+        },
+        {
+          "name": "Mordisco",
+          "attack_type": "siniestro",
+          "min_level": 17,
+          "damage": 60
+        },
+        {
+          "name": "Deslumbrar",
+          "attack_type": "normal",
+          "min_level": 24,
+          "damage": 30
+        },
+        {
+          "name": "Chirrido",
+          "attack_type": "normal",
+          "min_level": 31,
+          "damage": 30
+        },
+        {
+          "name": "Ácido",
+          "attack_type": "veneno",
+          "min_level": 38,
+          "damage": 40
+        }
+      ]
+    },
+    {
+      "name": "Arbok",
+      "base_health": 100,
+      "types": ["veneno"],
+      "attacks": [
+        {
+          "name": "Constricción",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 15
+        },
+        {
+          "name": "Malicioso",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Picotazo Ven",
+          "attack_type": "veneno",
+          "min_level": 1,
+          "damage": 15
+        },
+        {
+          "name": "Picotazo Ven",
+          "attack_type": "veneno",
+          "min_level": 10,
+          "damage": 15
+        },
+        {
+          "name": "Mordisco",
+          "attack_type": "siniestro",
+          "min_level": 17,
+          "damage": 60
+        },
+        {
+          "name": "Deslumbrar",
+          "attack_type": "normal",
+          "min_level": 27,
+          "damage": 30
+        },
+        {
+          "name": "Chirrido",
+          "attack_type": "normal",
+          "min_level": 36,
+          "damage": 30
+        },
+        {
+          "name": "Ácido",
+          "attack_type": "veneno",
+          "min_level": 47,
+          "damage": 40
+        }
+      ]
+    },
+    {
+      "name": "Pikachu",
+      "base_health": 100,
+      "types": ["electrico"],
+      "attacks": [
+        {
+          "name": "Impactrueno",
+          "attack_type": "electrico",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Gruñido",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Látigo",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Onda Trueno",
+          "attack_type": "electrico",
+          "min_level": 9,
+          "damage": 30
+        },
+        {
+          "name": "Ataque Rápido",
+          "attack_type": "normal",
+          "min_level": 16,
+          "damage": 40
+        },
+        {
+          "name": "Doble Equipo",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Atizar",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 80
+        },
+        {
+          "name": "Rayo",
+          "attack_type": "electrico",
+          "min_level": 1,
+          "damage": 90
+        },
+        {
+          "name": "Rapidez",
+          "attack_type": "normal",
+          "min_level": 26,
+          "damage": 60
+        },
+        {
+          "name": "Agilidad",
+          "attack_type": "psiquico",
+          "min_level": 33,
+          "damage": 30
+        },
+        {
+          "name": "Trueno",
+          "attack_type": "electrico",
+          "min_level": 43,
+          "damage": 110
+        },
+        {
+          "name": "Pantalla de Luz",
+          "attack_type": "psiquico",
+          "min_level": 1,
+          "damage": 30
+        }
+      ]
+    },
+    {
+      "name": "Raichu",
+      "base_health": 100,
+      "types": ["electrico"],
+      "attacks": [
+        {
+          "name": "Impactrueno",
+          "attack_type": "electrico",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Gruñido",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Onda Trueno",
+          "attack_type": "electrico",
+          "min_level": 1,
+          "damage": 30
+        }
+      ]
+    },
+    {
+      "name": "Sandshrew",
+      "base_health": 100,
+      "types": ["tierra"],
+      "attacks": [
+        {
+          "name": "Arañazo",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Ataque Arena",
+          "attack_type": "tierra",
+          "min_level": 10,
+          "damage": 30
+        },
+        {
+          "name": "Cuchillada",
+          "attack_type": "normal",
+          "min_level": 17,
+          "damage": 70
+        },
+        {
+          "name": "Picotazo Ven",
+          "attack_type": "veneno",
+          "min_level": 24,
+          "damage": 15
+        },
+        {
+          "name": "Rapidez",
+          "attack_type": "normal",
+          "min_level": 31,
+          "damage": 60
+        },
+        {
+          "name": "Golpes Furia",
+          "attack_type": "normal",
+          "min_level": 38,
+          "damage": 18
+        }
+      ]
+    },
+    {
+      "name": "Sandslash",
+      "base_health": 100,
+      "types": ["tierra"],
+      "attacks": [
+        {
+          "name": "Arañazo",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Ataque Arena",
+          "attack_type": "tierra",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Ataque Arena",
+          "attack_type": "tierra",
+          "min_level": 10,
+          "damage": 30
+        },
+        {
+          "name": "Cuchillada",
+          "attack_type": "normal",
+          "min_level": 17,
+          "damage": 70
+        },
+        {
+          "name": "Picotazo Ven",
+          "attack_type": "veneno",
+          "min_level": 27,
+          "damage": 15
+        },
+        {
+          "name": "Rapidez",
+          "attack_type": "normal",
+          "min_level": 36,
+          "damage": 60
+        },
+        {
+          "name": "Golpes Furia",
+          "attack_type": "normal",
+          "min_level": 47,
+          "damage": 18
+        }
+      ]
+    },
+    {
+      "name": "Nidoran♀",
+      "base_health": 100,
+      "types": ["veneno"],
+      "attacks": [
+        {
+          "name": "Gruñido",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Placaje",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Arañazo",
+          "attack_type": "normal",
+          "min_level": 8,
+          "damage": 40
+        },
+        {
+          "name": "Doble Patada",
+          "attack_type": "lucha",
+          "min_level": 43,
+          "damage": 30
+        },
+        {
+          "name": "Picotazo Ven",
+          "attack_type": "veneno",
+          "min_level": 14,
+          "damage": 15
+        },
+        {
+          "name": "Látigo",
+          "attack_type": "normal",
+          "min_level": 21,
+          "damage": 30
+        },
+        {
+          "name": "Mordisco",
+          "attack_type": "siniestro",
+          "min_level": 29,
+          "damage": 60
+        },
+        {
+          "name": "Golpes Furia",
+          "attack_type": "normal",
+          "min_level": 36,
+          "damage": 18
+        }
+      ]
+    },
+    {
+      "name": "Nidorina",
+      "base_health": 100,
+      "types": ["veneno"],
+      "attacks": [
+        {
+          "name": "Gruñido",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Placaje",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Arañazo",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Arañazo",
+          "attack_type": "normal",
+          "min_level": 8,
+          "damage": 40
+        },
+        {
+          "name": "Doble Patada",
+          "attack_type": "lucha",
+          "min_level": 50,
+          "damage": 30
+        },
+        {
+          "name": "Picotazo Ven",
+          "attack_type": "veneno",
+          "min_level": 14,
+          "damage": 15
+        },
+        {
+          "name": "Látigo",
+          "attack_type": "normal",
+          "min_level": 23,
+          "damage": 30
+        },
+        {
+          "name": "Mordisco",
+          "attack_type": "siniestro",
+          "min_level": 32,
+          "damage": 60
+        },
+        {
+          "name": "Golpes Furia",
+          "attack_type": "normal",
+          "min_level": 41,
+          "damage": 18
+        }
+      ]
+    },
+    {
+      "name": "Nidoqueen",
+      "base_health": 100,
+      "types": ["veneno", "tierra"],
+      "attacks": [
+        {
+          "name": "Placaje",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Arañazo",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Látigo",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Golpe Cuerpo",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 85
+        },
+        {
+          "name": "Arañazo",
+          "attack_type": "normal",
+          "min_level": 8,
+          "damage": 40
+        },
+        {
+          "name": "Doble Patada",
+          "attack_type": "lucha",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Picotazo Ven",
+          "attack_type": "veneno",
+          "min_level": 14,
+          "damage": 15
+        },
+        {
+          "name": "Golpe Cuerpo",
+          "attack_type": "normal",
+          "min_level": 23,
+          "damage": 85
+        }
+      ]
+    },
+    {
+      "name": "Nidoran♂",
+      "base_health": 100,
+      "types": ["veneno"],
+      "attacks": [
+        {
+          "name": "Malicioso",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Placaje",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Cornada",
+          "attack_type": "normal",
+          "min_level": 8,
+          "damage": 65
+        },
+        {
+          "name": "Doble Patada",
+          "attack_type": "lucha",
+          "min_level": 43,
+          "damage": 30
+        },
+        {
+          "name": "Picotazo Ven",
+          "attack_type": "veneno",
+          "min_level": 14,
+          "damage": 15
+        },
+        {
+          "name": "Foco Energía",
+          "attack_type": "normal",
+          "min_level": 21,
+          "damage": 30
+        },
+        {
+          "name": "Ataque Furia",
+          "attack_type": "normal",
+          "min_level": 29,
+          "damage": 15
+        },
+        {
+          "name": "Perforador",
+          "attack_type": "normal",
+          "min_level": 36,
+          "damage": 1
+        }
+      ]
+    },
+    {
+      "name": "Nidorino",
+      "base_health": 100,
+      "types": ["veneno"],
+      "attacks": [
+        {
+          "name": "Malicioso",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Placaje",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Cornada",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 65
+        },
+        {
+          "name": "Cornada",
+          "attack_type": "normal",
+          "min_level": 8,
+          "damage": 65
+        },
+        {
+          "name": "Doble Patada",
+          "attack_type": "lucha",
+          "min_level": 50,
+          "damage": 30
+        },
+        {
+          "name": "Picotazo Ven",
+          "attack_type": "veneno",
+          "min_level": 14,
+          "damage": 15
+        },
+        {
+          "name": "Foco Energía",
+          "attack_type": "normal",
+          "min_level": 23,
+          "damage": 30
+        },
+        {
+          "name": "Ataque Furia",
+          "attack_type": "normal",
+          "min_level": 32,
+          "damage": 15
+        },
+        {
+          "name": "Perforador",
+          "attack_type": "normal",
+          "min_level": 41,
+          "damage": 1
+        }
+      ]
+    },
+    {
+      "name": "Nidoking",
+      "base_health": 100,
+      "types": ["veneno", "tierra"],
+      "attacks": [
+        {
+          "name": "Placaje",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Cornada",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 65
+        },
+        {
+          "name": "Picotazo Ven",
+          "attack_type": "veneno",
+          "min_level": 1,
+          "damage": 15
+        },
+        {
+          "name": "Golpe",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 120
+        },
+        {
+          "name": "Cornada",
+          "attack_type": "normal",
+          "min_level": 8,
+          "damage": 65
+        },
+        {
+          "name": "Doble Patada",
+          "attack_type": "lucha",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Picotazo Ven",
+          "attack_type": "veneno",
+          "min_level": 14,
+          "damage": 15
+        },
+        {
+          "name": "Golpe",
+          "attack_type": "normal",
+          "min_level": 23,
+          "damage": 120
+        }
+      ]
+    },
+    {
+      "name": "Clefairy",
+      "base_health": 100,
+      "types": ["hada"],
+      "attacks": [
+        {
+          "name": "Destructor",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Gruñido",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Canto",
+          "attack_type": "normal",
+          "min_level": 13,
+          "damage": 30
+        },
+        {
+          "name": "Doble Bofetón",
+          "attack_type": "normal",
+          "min_level": 18,
+          "damage": 15
+        },
+        {
+          "name": "Reducción",
+          "attack_type": "normal",
+          "min_level": 24,
+          "damage": 30
+        },
+        {
+          "name": "Metrónomo",
+          "attack_type": "normal",
+          "min_level": 31,
+          "damage": 30
+        },
+        {
+          "name": "Rizo Defensa",
+          "attack_type": "normal",
+          "min_level": 39,
+          "damage": 30
+        },
+        {
+          "name": "Pantalla de Luz",
+          "attack_type": "psiquico",
+          "min_level": 48,
+          "damage": 30
+        }
+      ]
+    },
+    {
+      "name": "Clefable",
+      "base_health": 100,
+      "types": ["hada"],
+      "attacks": [
+        {
+          "name": "Canto",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Doble Bofetón",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 15
+        },
+        {
+          "name": "Reducción",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Metrónomo",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        }
+      ]
+    },
+    {
+      "name": "Vulpix",
+      "base_health": 100,
+      "types": ["fuego"],
+      "attacks": [
+        {
+          "name": "Ascuas",
+          "attack_type": "fuego",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Látigo",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Ataque Rápido",
+          "attack_type": "normal",
+          "min_level": 16,
+          "damage": 40
+        },
+        {
+          "name": "Rugido",
+          "attack_type": "normal",
+          "min_level": 21,
+          "damage": 30
+        },
+        {
+          "name": "Rayo Confuso",
+          "attack_type": "fantasma",
+          "min_level": 28,
+          "damage": 30
+        },
+        {
+          "name": "Lanzallamas",
+          "attack_type": "fuego",
+          "min_level": 35,
+          "damage": 90
+        },
+        {
+          "name": "Giro Fuego",
+          "attack_type": "fuego",
+          "min_level": 42,
+          "damage": 35
+        }
+      ]
+    },
+    {
+      "name": "Ninetales",
+      "base_health": 100,
+      "types": ["fuego"],
+      "attacks": [
+        {
+          "name": "Ascuas",
+          "attack_type": "fuego",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Látigo",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Ataque Rápido",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Rugido",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        }
+      ]
+    },
+    {
+      "name": "Jigglypuff",
+      "base_health": 100,
+      "types": ["normal", "hada"],
+      "attacks": [
+        {
+          "name": "Canto",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Destructor",
+          "attack_type": "normal",
+          "min_level": 9,
+          "damage": 40
+        },
+        {
+          "name": "Anulación",
+          "attack_type": "normal",
+          "min_level": 14,
+          "damage": 30
+        },
+        {
+          "name": "Rizo Defensa",
+          "attack_type": "normal",
+          "min_level": 19,
+          "damage": 30
+        },
+        {
+          "name": "Doble Bofetón",
+          "attack_type": "normal",
+          "min_level": 24,
+          "damage": 15
+        },
+        {
+          "name": "Descanso",
+          "attack_type": "psiquico",
+          "min_level": 29,
+          "damage": 30
+        },
+        {
+          "name": "Golpe Cuerpo",
+          "attack_type": "normal",
+          "min_level": 34,
+          "damage": 85
+        },
+        {
+          "name": "Doble Filo",
+          "attack_type": "normal",
+          "min_level": 39,
+          "damage": 120
+        }
+      ]
+    },
+    {
+      "name": "Wigglytuff",
+      "base_health": 100,
+      "types": ["normal", "hada"],
+      "attacks": [
+        {
+          "name": "Canto",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Anulación",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Rizo Defensa",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Doble Bofetón",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 15
+        }
+      ]
+    },
+    {
+      "name": "Zubat",
+      "base_health": 100,
+      "types": ["veneno", "volador"],
+      "attacks": [
+        {
+          "name": "Chupavidas",
+          "attack_type": "bicho",
+          "min_level": 1,
+          "damage": 80
+        },
+        {
+          "name": "Supersónico",
+          "attack_type": "normal",
+          "min_level": 10,
+          "damage": 30
+        },
+        {
+          "name": "Mordisco",
+          "attack_type": "siniestro",
+          "min_level": 15,
+          "damage": 60
+        },
+        {
+          "name": "Rayo Confuso",
+          "attack_type": "fantasma",
+          "min_level": 21,
+          "damage": 30
+        },
+        {
+          "name": "Ataque Ala",
+          "attack_type": "volador",
+          "min_level": 28,
+          "damage": 60
+        },
+        {
+          "name": "Niebla",
+          "attack_type": "hielo",
+          "min_level": 36,
+          "damage": 30
+        }
+      ]
+    },
+    {
+      "name": "Golbat",
+      "base_health": 100,
+      "types": ["veneno", "volador"],
+      "attacks": [
+        {
+          "name": "Chupavidas",
+          "attack_type": "bicho",
+          "min_level": 1,
+          "damage": 80
+        },
+        {
+          "name": "Chirrido",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Mordisco",
+          "attack_type": "siniestro",
+          "min_level": 1,
+          "damage": 60
+        },
+        {
+          "name": "Supersónico",
+          "attack_type": "normal",
+          "min_level": 10,
+          "damage": 30
+        },
+        {
+          "name": "Mordisco",
+          "attack_type": "siniestro",
+          "min_level": 15,
+          "damage": 60
+        },
+        {
+          "name": "Rayo Confuso",
+          "attack_type": "fantasma",
+          "min_level": 21,
+          "damage": 30
+        },
+        {
+          "name": "Ataque Ala",
+          "attack_type": "volador",
+          "min_level": 32,
+          "damage": 60
+        },
+        {
+          "name": "Niebla",
+          "attack_type": "hielo",
+          "min_level": 43,
+          "damage": 30
+        }
+      ]
+    },
+    {
+      "name": "Oddish",
+      "base_health": 100,
+      "types": ["planta", "veneno"],
+      "attacks": [
+        {
+          "name": "Absorber",
+          "attack_type": "planta",
+          "min_level": 1,
+          "damage": 20
+        },
+        {
+          "name": "Polvo Veneno",
+          "attack_type": "veneno",
+          "min_level": 15,
+          "damage": 30
+        },
+        {
+          "name": "Paralizador",
+          "attack_type": "planta",
+          "min_level": 17,
+          "damage": 30
+        },
+        {
+          "name": "Somnífero",
+          "attack_type": "planta",
+          "min_level": 19,
+          "damage": 30
+        },
+        {
+          "name": "Ácido",
+          "attack_type": "veneno",
+          "min_level": 24,
+          "damage": 40
+        },
+        {
+          "name": "Danza Pétalo",
+          "attack_type": "planta",
+          "min_level": 33,
+          "damage": 120
+        },
+        {
+          "name": "Rayo Solar",
+          "attack_type": "planta",
+          "min_level": 46,
+          "damage": 120
+        }
+      ]
+    },
+    {
+      "name": "Gloom",
+      "base_health": 100,
+      "types": ["planta", "veneno"],
+      "attacks": [
+        {
+          "name": "Absorber",
+          "attack_type": "planta",
+          "min_level": 1,
+          "damage": 20
+        },
+        {
+          "name": "Polvo Veneno",
+          "attack_type": "veneno",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Paralizador",
+          "attack_type": "planta",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Polvo Veneno",
+          "attack_type": "veneno",
+          "min_level": 15,
+          "damage": 30
+        },
+        {
+          "name": "Paralizador",
+          "attack_type": "planta",
+          "min_level": 17,
+          "damage": 30
+        },
+        {
+          "name": "Somnífero",
+          "attack_type": "planta",
+          "min_level": 19,
+          "damage": 30
+        },
+        {
+          "name": "Ácido",
+          "attack_type": "veneno",
+          "min_level": 28,
+          "damage": 40
+        },
+        {
+          "name": "Danza Pétalo",
+          "attack_type": "planta",
+          "min_level": 38,
+          "damage": 120
+        },
+        {
+          "name": "Rayo Solar",
+          "attack_type": "planta",
+          "min_level": 52,
+          "damage": 120
+        }
+      ]
+    },
+    {
+      "name": "Vileplume",
+      "base_health": 100,
+      "types": ["planta", "veneno"],
+      "attacks": [
+        {
+          "name": "Paralizador",
+          "attack_type": "planta",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Somnífero",
+          "attack_type": "planta",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Ácido",
+          "attack_type": "veneno",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Danza Pétalo",
+          "attack_type": "planta",
+          "min_level": 1,
+          "damage": 120
+        },
+        {
+          "name": "Polvo Veneno",
+          "attack_type": "veneno",
+          "min_level": 15,
+          "damage": 30
+        },
+        {
+          "name": "Paralizador",
+          "attack_type": "planta",
+          "min_level": 17,
+          "damage": 30
+        },
+        {
+          "name": "Somnífero",
+          "attack_type": "planta",
+          "min_level": 19,
+          "damage": 30
+        }
+      ]
+    },
+    {
+      "name": "Paras",
+      "base_health": 100,
+      "types": ["bicho", "planta"],
+      "attacks": [
+        {
+          "name": "Arañazo",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Paralizador",
+          "attack_type": "planta",
+          "min_level": 13,
+          "damage": 30
+        },
+        {
+          "name": "Chupavidas",
+          "attack_type": "bicho",
+          "min_level": 20,
+          "damage": 80
+        },
+        {
+          "name": "Espora",
+          "attack_type": "planta",
+          "min_level": 27,
+          "damage": 30
+        },
+        {
+          "name": "Cuchillada",
+          "attack_type": "normal",
+          "min_level": 34,
+          "damage": 70
+        },
+        {
+          "name": "Desarrollo",
+          "attack_type": "normal",
+          "min_level": 41,
+          "damage": 30
+        }
+      ]
+    },
+    {
+      "name": "Parasect",
+      "base_health": 100,
+      "types": ["bicho", "planta"],
+      "attacks": [
+        {
+          "name": "Arañazo",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Paralizador",
+          "attack_type": "planta",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Chupavidas",
+          "attack_type": "bicho",
+          "min_level": 1,
+          "damage": 80
+        },
+        {
+          "name": "Paralizador",
+          "attack_type": "planta",
+          "min_level": 13,
+          "damage": 30
+        },
+        {
+          "name": "Chupavidas",
+          "attack_type": "bicho",
+          "min_level": 20,
+          "damage": 80
+        },
+        {
+          "name": "Espora",
+          "attack_type": "planta",
+          "min_level": 30,
+          "damage": 30
+        },
+        {
+          "name": "Cuchillada",
+          "attack_type": "normal",
+          "min_level": 39,
+          "damage": 70
+        },
+        {
+          "name": "Desarrollo",
+          "attack_type": "normal",
+          "min_level": 48,
+          "damage": 30
+        }
+      ]
+    },
+    {
+      "name": "Venonat",
+      "base_health": 100,
+      "types": ["bicho", "veneno"],
+      "attacks": [
+        {
+          "name": "Placaje",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Anulación",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Supersónico",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Confusión",
+          "attack_type": "psiquico",
+          "min_level": 1,
+          "damage": 50
+        },
+        {
+          "name": "Polvo Veneno",
+          "attack_type": "veneno",
+          "min_level": 24,
+          "damage": 30
+        },
+        {
+          "name": "Chupavidas",
+          "attack_type": "bicho",
+          "min_level": 27,
+          "damage": 80
+        },
+        {
+          "name": "Paralizador",
+          "attack_type": "planta",
+          "min_level": 30,
+          "damage": 30
+        },
+        {
+          "name": "Psicorrayo",
+          "attack_type": "psiquico",
+          "min_level": 35,
+          "damage": 65
+        },
+        {
+          "name": "Somnífero",
+          "attack_type": "planta",
+          "min_level": 38,
+          "damage": 30
+        },
+        {
+          "name": "Psíquico",
+          "attack_type": "psiquico",
+          "min_level": 43,
+          "damage": 90
+        }
+      ]
+    },
+    {
+      "name": "Venomoth",
+      "base_health": 100,
+      "types": ["bicho", "veneno"],
+      "attacks": [
+        {
+          "name": "Placaje",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Anulación",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Supersónico",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Confusión",
+          "attack_type": "psiquico",
+          "min_level": 1,
+          "damage": 50
+        },
+        {
+          "name": "Polvo Veneno",
+          "attack_type": "veneno",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Chupavidas",
+          "attack_type": "bicho",
+          "min_level": 1,
+          "damage": 80
+        },
+        {
+          "name": "Polvo Veneno",
+          "attack_type": "veneno",
+          "min_level": 24,
+          "damage": 30
+        },
+        {
+          "name": "Chupavidas",
+          "attack_type": "bicho",
+          "min_level": 27,
+          "damage": 80
+        },
+        {
+          "name": "Paralizador",
+          "attack_type": "planta",
+          "min_level": 30,
+          "damage": 30
+        },
+        {
+          "name": "Psicorrayo",
+          "attack_type": "psiquico",
+          "min_level": 38,
+          "damage": 65
+        },
+        {
+          "name": "Somnífero",
+          "attack_type": "planta",
+          "min_level": 43,
+          "damage": 30
+        },
+        {
+          "name": "Psíquico",
+          "attack_type": "psiquico",
+          "min_level": 50,
+          "damage": 90
+        }
+      ]
+    },
+    {
+      "name": "Diglett",
+      "base_health": 100,
+      "types": ["tierra"],
+      "attacks": [
+        {
+          "name": "Arañazo",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Gruñido",
+          "attack_type": "normal",
+          "min_level": 15,
+          "damage": 30
+        },
+        {
+          "name": "Excavar",
+          "attack_type": "tierra",
+          "min_level": 19,
+          "damage": 80
+        },
+        {
+          "name": "Ataque Arena",
+          "attack_type": "tierra",
+          "min_level": 24,
+          "damage": 30
+        },
+        {
+          "name": "Cuchillada",
+          "attack_type": "normal",
+          "min_level": 31,
+          "damage": 70
+        },
+        {
+          "name": "Terremoto",
+          "attack_type": "tierra",
+          "min_level": 40,
+          "damage": 100
+        }
+      ]
+    },
+    {
+      "name": "Dugtrio",
+      "base_health": 100,
+      "types": ["tierra"],
+      "attacks": [
+        {
+          "name": "Arañazo",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Gruñido",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Excavar",
+          "attack_type": "tierra",
+          "min_level": 1,
+          "damage": 80
+        },
+        {
+          "name": "Gruñido",
+          "attack_type": "normal",
+          "min_level": 15,
+          "damage": 30
+        },
+        {
+          "name": "Excavar",
+          "attack_type": "tierra",
+          "min_level": 19,
+          "damage": 80
+        },
+        {
+          "name": "Ataque Arena",
+          "attack_type": "tierra",
+          "min_level": 24,
+          "damage": 30
+        },
+        {
+          "name": "Cuchillada",
+          "attack_type": "normal",
+          "min_level": 35,
+          "damage": 70
+        },
+        {
+          "name": "Terremoto",
+          "attack_type": "tierra",
+          "min_level": 47,
+          "damage": 100
+        }
+      ]
+    },
+    {
+      "name": "Meowth",
+      "base_health": 100,
+      "types": ["normal"],
+      "attacks": [
+        {
+          "name": "Arañazo",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Gruñido",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Mordisco",
+          "attack_type": "siniestro",
+          "min_level": 12,
+          "damage": 60
+        },
+        {
+          "name": "Día de Pago",
+          "attack_type": "normal",
+          "min_level": 17,
+          "damage": 40
+        },
+        {
+          "name": "Chirrido",
+          "attack_type": "normal",
+          "min_level": 24,
+          "damage": 30
+        },
+        {
+          "name": "Golpes Furia",
+          "attack_type": "normal",
+          "min_level": 33,
+          "damage": 18
+        },
+        {
+          "name": "Cuchillada",
+          "attack_type": "normal",
+          "min_level": 44,
+          "damage": 70
+        }
+      ]
+    },
+    {
+      "name": "Persian",
+      "base_health": 100,
+      "types": ["normal"],
+      "attacks": [
+        {
+          "name": "Arañazo",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Gruñido",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Mordisco",
+          "attack_type": "siniestro",
+          "min_level": 1,
+          "damage": 60
+        },
+        {
+          "name": "Chirrido",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Mordisco",
+          "attack_type": "siniestro",
+          "min_level": 12,
+          "damage": 60
+        },
+        {
+          "name": "Día de Pago",
+          "attack_type": "normal",
+          "min_level": 17,
+          "damage": 40
+        },
+        {
+          "name": "Chirrido",
+          "attack_type": "normal",
+          "min_level": 24,
+          "damage": 30
+        },
+        {
+          "name": "Golpes Furia",
+          "attack_type": "normal",
+          "min_level": 37,
+          "damage": 18
+        },
+        {
+          "name": "Cuchillada",
+          "attack_type": "normal",
+          "min_level": 51,
+          "damage": 70
+        }
+      ]
+    },
+    {
+      "name": "Psyduck",
+      "base_health": 100,
+      "types": ["agua"],
+      "attacks": [
+        {
+          "name": "Arañazo",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Látigo",
+          "attack_type": "normal",
+          "min_level": 28,
+          "damage": 30
+        },
+        {
+          "name": "Anulación",
+          "attack_type": "normal",
+          "min_level": 31,
+          "damage": 30
+        },
+        {
+          "name": "Confusión",
+          "attack_type": "psiquico",
+          "min_level": 36,
+          "damage": 50
+        },
+        {
+          "name": "Golpes Furia",
+          "attack_type": "normal",
+          "min_level": 43,
+          "damage": 18
+        },
+        {
+          "name": "Hidrobomba",
+          "attack_type": "agua",
+          "min_level": 52,
+          "damage": 110
+        }
+      ]
+    },
+    {
+      "name": "Golduck",
+      "base_health": 100,
+      "types": ["agua"],
+      "attacks": [
+        {
+          "name": "Arañazo",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Látigo",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Anulación",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Látigo",
+          "attack_type": "normal",
+          "min_level": 28,
+          "damage": 30
+        },
+        {
+          "name": "Anulación",
+          "attack_type": "normal",
+          "min_level": 31,
+          "damage": 30
+        },
+        {
+          "name": "Confusión",
+          "attack_type": "psiquico",
+          "min_level": 39,
+          "damage": 50
+        },
+        {
+          "name": "Golpes Furia",
+          "attack_type": "normal",
+          "min_level": 48,
+          "damage": 18
+        },
+        {
+          "name": "Hidrobomba",
+          "attack_type": "agua",
+          "min_level": 59,
+          "damage": 110
+        }
+      ]
+    },
+    {
+      "name": "Mankey",
+      "base_health": 100,
+      "types": ["lucha"],
+      "attacks": [
+        {
+          "name": "Arañazo",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Malicioso",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Patada Baja",
+          "attack_type": "lucha",
+          "min_level": 1,
+          "damage": 1
+        },
+        {
+          "name": "Golpe Kárate",
+          "attack_type": "lucha",
+          "min_level": 15,
+          "damage": 50
+        },
+        {
+          "name": "Golpes Furia",
+          "attack_type": "normal",
+          "min_level": 21,
+          "damage": 18
+        },
+        {
+          "name": "Foco Energía",
+          "attack_type": "normal",
+          "min_level": 27,
+          "damage": 30
+        },
+        {
+          "name": "Mov. Sísmico",
+          "attack_type": "lucha",
+          "min_level": 33,
+          "damage": 1
+        },
+        {
+          "name": "Golpe",
+          "attack_type": "normal",
+          "min_level": 39,
+          "damage": 120
+        },
+        {
+          "name": "Chirrido",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        }
+      ]
+    },
+    {
+      "name": "Primeape",
+      "base_health": 100,
+      "types": ["lucha"],
+      "attacks": [
+        {
+          "name": "Golpes Furia",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 18
+        },
+        {
+          "name": "Arañazo",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Malicioso",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Patada Baja",
+          "attack_type": "lucha",
+          "min_level": 1,
+          "damage": 1
+        },
+        {
+          "name": "Golpe Kárate",
+          "attack_type": "lucha",
+          "min_level": 1,
+          "damage": 50
+        },
+        {
+          "name": "Patada Baja",
+          "attack_type": "lucha",
+          "min_level": 1,
+          "damage": 1
+        },
+        {
+          "name": "Golpe Kárate",
+          "attack_type": "lucha",
+          "min_level": 15,
+          "damage": 50
+        },
+        {
+          "name": "Golpes Furia",
+          "attack_type": "normal",
+          "min_level": 21,
+          "damage": 18
+        },
+        {
+          "name": "Foco Energía",
+          "attack_type": "normal",
+          "min_level": 27,
+          "damage": 30
+        },
+        {
+          "name": "Furia",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 20
+        },
+        {
+          "name": "Mov. Sísmico",
+          "attack_type": "lucha",
+          "min_level": 37,
+          "damage": 1
+        },
+        {
+          "name": "Chirrido",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Golpe",
+          "attack_type": "normal",
+          "min_level": 46,
+          "damage": 120
+        }
+      ]
+    },
+    {
+      "name": "Growlithe",
+      "base_health": 100,
+      "types": ["fuego"],
+      "attacks": [
+        {
+          "name": "Mordisco",
+          "attack_type": "siniestro",
+          "min_level": 1,
+          "damage": 60
+        },
+        {
+          "name": "Rugido",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Ascuas",
+          "attack_type": "fuego",
+          "min_level": 18,
+          "damage": 40
+        },
+        {
+          "name": "Malicioso",
+          "attack_type": "normal",
+          "min_level": 23,
+          "damage": 30
+        },
+        {
+          "name": "Derribo",
+          "attack_type": "normal",
+          "min_level": 30,
+          "damage": 90
+        },
+        {
+          "name": "Agilidad",
+          "attack_type": "psiquico",
+          "min_level": 39,
+          "damage": 30
+        },
+        {
+          "name": "Lanzallamas",
+          "attack_type": "fuego",
+          "min_level": 50,
+          "damage": 90
+        }
+      ]
+    },
+    {
+      "name": "Arcanine",
+      "base_health": 100,
+      "types": ["fuego"],
+      "attacks": [
+        {
+          "name": "Rugido",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Ascuas",
+          "attack_type": "fuego",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Malicioso",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Derribo",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 90
+        }
+      ]
+    },
+    {
+      "name": "Poliwag",
+      "base_health": 100,
+      "types": ["agua"],
+      "attacks": [
+        {
+          "name": "Burbuja",
+          "attack_type": "agua",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Hipnosis",
+          "attack_type": "psiquico",
+          "min_level": 16,
+          "damage": 30
+        },
+        {
+          "name": "Pistola Agua",
+          "attack_type": "agua",
+          "min_level": 19,
+          "damage": 40
+        },
+        {
+          "name": "Doble Bofetón",
+          "attack_type": "normal",
+          "min_level": 25,
+          "damage": 15
+        },
+        {
+          "name": "Golpe Cuerpo",
+          "attack_type": "normal",
+          "min_level": 31,
+          "damage": 85
+        },
+        {
+          "name": "Amnesia",
+          "attack_type": "psiquico",
+          "min_level": 38,
+          "damage": 30
+        },
+        {
+          "name": "Hidrobomba",
+          "attack_type": "agua",
+          "min_level": 45,
+          "damage": 110
+        }
+      ]
+    },
+    {
+      "name": "Poliwhirl",
+      "base_health": 100,
+      "types": ["agua"],
+      "attacks": [
+        {
+          "name": "Burbuja",
+          "attack_type": "agua",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Hipnosis",
+          "attack_type": "psiquico",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Pistola Agua",
+          "attack_type": "agua",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Hipnosis",
+          "attack_type": "psiquico",
+          "min_level": 16,
+          "damage": 30
+        },
+        {
+          "name": "Pistola Agua",
+          "attack_type": "agua",
+          "min_level": 19,
+          "damage": 40
+        },
+        {
+          "name": "Doble Bofetón",
+          "attack_type": "normal",
+          "min_level": 26,
+          "damage": 15
+        },
+        {
+          "name": "Golpe Cuerpo",
+          "attack_type": "normal",
+          "min_level": 33,
+          "damage": 85
+        },
+        {
+          "name": "Amnesia",
+          "attack_type": "psiquico",
+          "min_level": 41,
+          "damage": 30
+        },
+        {
+          "name": "Hidrobomba",
+          "attack_type": "agua",
+          "min_level": 49,
+          "damage": 110
+        }
+      ]
+    },
+    {
+      "name": "Poliwrath",
+      "base_health": 100,
+      "types": ["agua", "lucha"],
+      "attacks": [
+        {
+          "name": "Hipnosis",
+          "attack_type": "psiquico",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Pistola Agua",
+          "attack_type": "agua",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Doble Bofetón",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 15
+        },
+        {
+          "name": "Golpe Cuerpo",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 85
+        },
+        {
+          "name": "Hipnosis",
+          "attack_type": "psiquico",
+          "min_level": 16,
+          "damage": 30
+        },
+        {
+          "name": "Pistola Agua",
+          "attack_type": "agua",
+          "min_level": 19,
+          "damage": 40
+        }
+      ]
+    },
+    {
+      "name": "Abra",
+      "base_health": 100,
+      "types": ["psiquico"],
+      "attacks": [
+        {
+          "name": "Teletransporte",
+          "attack_type": "psiquico",
+          "min_level": 1,
+          "damage": 30
+        }
+      ]
+    },
+    {
+      "name": "Kadabra",
+      "base_health": 100,
+      "types": ["psiquico"],
+      "attacks": [
+        {
+          "name": "Confusión",
+          "attack_type": "psiquico",
+          "min_level": 1,
+          "damage": 50
+        },
+        {
+          "name": "Anulación",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Teletransporte",
+          "attack_type": "psiquico",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Kinético",
+          "attack_type": "psiquico",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Confusión",
+          "attack_type": "psiquico",
+          "min_level": 16,
+          "damage": 50
+        },
+        {
+          "name": "Anulación",
+          "attack_type": "normal",
+          "min_level": 20,
+          "damage": 30
+        },
+        {
+          "name": "Psicorrayo",
+          "attack_type": "psiquico",
+          "min_level": 27,
+          "damage": 65
+        },
+        {
+          "name": "Recuperación",
+          "attack_type": "normal",
+          "min_level": 31,
+          "damage": 30
+        },
+        {
+          "name": "Psíquico",
+          "attack_type": "psiquico",
+          "min_level": 38,
+          "damage": 90
+        },
+        {
+          "name": "Reflejo",
+          "attack_type": "psiquico",
+          "min_level": 42,
+          "damage": 30
+        }
+      ]
+    },
+    {
+      "name": "Alakazam",
+      "base_health": 100,
+      "types": ["psiquico"],
+      "attacks": [
+        {
+          "name": "Confusión",
+          "attack_type": "psiquico",
+          "min_level": 1,
+          "damage": 50
+        },
+        {
+          "name": "Anulación",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Teletransporte",
+          "attack_type": "psiquico",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Kinético",
+          "attack_type": "psiquico",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Confusión",
+          "attack_type": "psiquico",
+          "min_level": 16,
+          "damage": 50
+        },
+        {
+          "name": "Anulación",
+          "attack_type": "normal",
+          "min_level": 20,
+          "damage": 30
+        },
+        {
+          "name": "Psicorrayo",
+          "attack_type": "psiquico",
+          "min_level": 27,
+          "damage": 65
+        },
+        {
+          "name": "Recuperación",
+          "attack_type": "normal",
+          "min_level": 31,
+          "damage": 30
+        },
+        {
+          "name": "Psíquico",
+          "attack_type": "psiquico",
+          "min_level": 38,
+          "damage": 90
+        },
+        {
+          "name": "Reflejo",
+          "attack_type": "psiquico",
+          "min_level": 42,
+          "damage": 30
+        }
+      ]
+    },
+    {
+      "name": "Machop",
+      "base_health": 100,
+      "types": ["lucha"],
+      "attacks": [
+        {
+          "name": "Golpe Kárate",
+          "attack_type": "lucha",
+          "min_level": 1,
+          "damage": 50
+        },
+        {
+          "name": "Patada Baja",
+          "attack_type": "lucha",
+          "min_level": 20,
+          "damage": 1
+        },
+        {
+          "name": "Malicioso",
+          "attack_type": "normal",
+          "min_level": 25,
+          "damage": 30
+        },
+        {
+          "name": "Foco Energía",
+          "attack_type": "normal",
+          "min_level": 32,
+          "damage": 30
+        },
+        {
+          "name": "Mov. Sísmico",
+          "attack_type": "lucha",
+          "min_level": 39,
+          "damage": 1
+        },
+        {
+          "name": "Sumisión",
+          "attack_type": "lucha",
+          "min_level": 46,
+          "damage": 80
+        }
+      ]
+    },
+    {
+      "name": "Machoke",
+      "base_health": 100,
+      "types": ["lucha"],
+      "attacks": [
+        {
+          "name": "Golpe Kárate",
+          "attack_type": "lucha",
+          "min_level": 1,
+          "damage": 50
+        },
+        {
+          "name": "Patada Baja",
+          "attack_type": "lucha",
+          "min_level": 1,
+          "damage": 1
+        },
+        {
+          "name": "Malicioso",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Patada Baja",
+          "attack_type": "lucha",
+          "min_level": 20,
+          "damage": 1
+        },
+        {
+          "name": "Malicioso",
+          "attack_type": "normal",
+          "min_level": 25,
+          "damage": 30
+        },
+        {
+          "name": "Foco Energía",
+          "attack_type": "normal",
+          "min_level": 36,
+          "damage": 30
+        },
+        {
+          "name": "Mov. Sísmico",
+          "attack_type": "lucha",
+          "min_level": 44,
+          "damage": 1
+        },
+        {
+          "name": "Sumisión",
+          "attack_type": "lucha",
+          "min_level": 52,
+          "damage": 80
+        }
+      ]
+    },
+    {
+      "name": "Machamp",
+      "base_health": 100,
+      "types": ["lucha"],
+      "attacks": [
+        {
+          "name": "Golpe Kárate",
+          "attack_type": "lucha",
+          "min_level": 1,
+          "damage": 50
+        },
+        {
+          "name": "Patada Baja",
+          "attack_type": "lucha",
+          "min_level": 1,
+          "damage": 1
+        },
+        {
+          "name": "Malicioso",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Patada Baja",
+          "attack_type": "lucha",
+          "min_level": 20,
+          "damage": 1
+        },
+        {
+          "name": "Malicioso",
+          "attack_type": "normal",
+          "min_level": 25,
+          "damage": 30
+        },
+        {
+          "name": "Foco Energía",
+          "attack_type": "normal",
+          "min_level": 36,
+          "damage": 30
+        },
+        {
+          "name": "Mov. Sísmico",
+          "attack_type": "lucha",
+          "min_level": 44,
+          "damage": 1
+        },
+        {
+          "name": "Sumisión",
+          "attack_type": "lucha",
+          "min_level": 52,
+          "damage": 80
+        }
+      ]
+    },
+    {
+      "name": "Bellsprout",
+      "base_health": 100,
+      "types": ["planta", "veneno"],
+      "attacks": [
+        {
+          "name": "Látigo Cepa",
+          "attack_type": "planta",
+          "min_level": 1,
+          "damage": 45
+        },
+        {
+          "name": "Desarrollo",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Constricción",
+          "attack_type": "normal",
+          "min_level": 13,
+          "damage": 15
+        },
+        {
+          "name": "Polvo Veneno",
+          "attack_type": "veneno",
+          "min_level": 15,
+          "damage": 30
+        },
+        {
+          "name": "Somnífero",
+          "attack_type": "planta",
+          "min_level": 18,
+          "damage": 30
+        },
+        {
+          "name": "Paralizador",
+          "attack_type": "planta",
+          "min_level": 21,
+          "damage": 30
+        },
+        {
+          "name": "Ácido",
+          "attack_type": "veneno",
+          "min_level": 26,
+          "damage": 40
+        },
+        {
+          "name": "Hoja Afilada",
+          "attack_type": "planta",
+          "min_level": 33,
+          "damage": 55
+        },
+        {
+          "name": "Atizar",
+          "attack_type": "normal",
+          "min_level": 42,
+          "damage": 80
+        }
+      ]
+    },
+    {
+      "name": "Weepinbell",
+      "base_health": 100,
+      "types": ["planta", "veneno"],
+      "attacks": [
+        {
+          "name": "Látigo Cepa",
+          "attack_type": "planta",
+          "min_level": 1,
+          "damage": 45
+        },
+        {
+          "name": "Desarrollo",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Constricción",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 15
+        },
+        {
+          "name": "Constricción",
+          "attack_type": "normal",
+          "min_level": 13,
+          "damage": 15
+        },
+        {
+          "name": "Polvo Veneno",
+          "attack_type": "veneno",
+          "min_level": 15,
+          "damage": 30
+        },
+        {
+          "name": "Somnífero",
+          "attack_type": "planta",
+          "min_level": 18,
+          "damage": 30
+        },
+        {
+          "name": "Paralizador",
+          "attack_type": "planta",
+          "min_level": 23,
+          "damage": 30
+        },
+        {
+          "name": "Ácido",
+          "attack_type": "veneno",
+          "min_level": 29,
+          "damage": 40
+        },
+        {
+          "name": "Hoja Afilada",
+          "attack_type": "planta",
+          "min_level": 38,
+          "damage": 55
+        },
+        {
+          "name": "Atizar",
+          "attack_type": "normal",
+          "min_level": 49,
+          "damage": 80
+        }
+      ]
+    },
+    {
+      "name": "Victreebel",
+      "base_health": 100,
+      "types": ["planta", "veneno"],
+      "attacks": [
+        {
+          "name": "Somnífero",
+          "attack_type": "planta",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Paralizador",
+          "attack_type": "planta",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Ácido",
+          "attack_type": "veneno",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Hoja Afilada",
+          "attack_type": "planta",
+          "min_level": 1,
+          "damage": 55
+        },
+        {
+          "name": "Constricción",
+          "attack_type": "normal",
+          "min_level": 13,
+          "damage": 15
+        },
+        {
+          "name": "Polvo Veneno",
+          "attack_type": "veneno",
+          "min_level": 15,
+          "damage": 30
+        },
+        {
+          "name": "Somnífero",
+          "attack_type": "planta",
+          "min_level": 18,
+          "damage": 30
+        }
+      ]
+    },
+    {
+      "name": "Tentacool",
+      "base_health": 100,
+      "types": ["agua", "veneno"],
+      "attacks": [
+        {
+          "name": "Ácido",
+          "attack_type": "veneno",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Supersónico",
+          "attack_type": "normal",
+          "min_level": 7,
+          "damage": 30
+        },
+        {
+          "name": "Constricción",
+          "attack_type": "normal",
+          "min_level": 13,
+          "damage": 15
+        },
+        {
+          "name": "Picotazo Ven",
+          "attack_type": "veneno",
+          "min_level": 18,
+          "damage": 15
+        },
+        {
+          "name": "Pistola Agua",
+          "attack_type": "agua",
+          "min_level": 22,
+          "damage": 40
+        },
+        {
+          "name": "Restricción",
+          "attack_type": "normal",
+          "min_level": 27,
+          "damage": 10
+        },
+        {
+          "name": "Barrera",
+          "attack_type": "psiquico",
+          "min_level": 33,
+          "damage": 30
+        },
+        {
+          "name": "Chirrido",
+          "attack_type": "normal",
+          "min_level": 40,
+          "damage": 30
+        },
+        {
+          "name": "Hidrobomba",
+          "attack_type": "agua",
+          "min_level": 48,
+          "damage": 110
+        }
+      ]
+    },
+    {
+      "name": "Tentacruel",
+      "base_health": 100,
+      "types": ["agua", "veneno"],
+      "attacks": [
+        {
+          "name": "Ácido",
+          "attack_type": "veneno",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Supersónico",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Constricción",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 15
+        },
+        {
+          "name": "Supersónico",
+          "attack_type": "normal",
+          "min_level": 7,
+          "damage": 30
+        },
+        {
+          "name": "Constricción",
+          "attack_type": "normal",
+          "min_level": 13,
+          "damage": 15
+        },
+        {
+          "name": "Picotazo Ven",
+          "attack_type": "veneno",
+          "min_level": 18,
+          "damage": 15
+        },
+        {
+          "name": "Pistola Agua",
+          "attack_type": "agua",
+          "min_level": 22,
+          "damage": 40
+        },
+        {
+          "name": "Restricción",
+          "attack_type": "normal",
+          "min_level": 27,
+          "damage": 10
+        },
+        {
+          "name": "Barrera",
+          "attack_type": "psiquico",
+          "min_level": 35,
+          "damage": 30
+        },
+        {
+          "name": "Chirrido",
+          "attack_type": "normal",
+          "min_level": 43,
+          "damage": 30
+        },
+        {
+          "name": "Hidrobomba",
+          "attack_type": "agua",
+          "min_level": 50,
+          "damage": 110
+        }
+      ]
+    },
+    {
+      "name": "Geodude",
+      "base_health": 100,
+      "types": ["roca", "tierra"],
+      "attacks": [
+        {
+          "name": "Placaje",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Rizo Defensa",
+          "attack_type": "normal",
+          "min_level": 11,
+          "damage": 30
+        },
+        {
+          "name": "Lanzarrocas",
+          "attack_type": "roca",
+          "min_level": 16,
+          "damage": 50
+        },
+        {
+          "name": "Autodestrucción",
+          "attack_type": "normal",
+          "min_level": 21,
+          "damage": 200
+        },
+        {
+          "name": "Fortaleza",
+          "attack_type": "normal",
+          "min_level": 26,
+          "damage": 30
+        },
+        {
+          "name": "Terremoto",
+          "attack_type": "tierra",
+          "min_level": 31,
+          "damage": 100
+        },
+        {
+          "name": "Explosión",
+          "attack_type": "normal",
+          "min_level": 36,
+          "damage": 250
+        }
+      ]
+    },
+    {
+      "name": "Graveler",
+      "base_health": 100,
+      "types": ["roca", "tierra"],
+      "attacks": [
+        {
+          "name": "Placaje",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Rizo Defensa",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Rizo Defensa",
+          "attack_type": "normal",
+          "min_level": 11,
+          "damage": 30
+        },
+        {
+          "name": "Lanzarrocas",
+          "attack_type": "roca",
+          "min_level": 16,
+          "damage": 50
+        },
+        {
+          "name": "Autodestrucción",
+          "attack_type": "normal",
+          "min_level": 21,
+          "damage": 200
+        },
+        {
+          "name": "Fortaleza",
+          "attack_type": "normal",
+          "min_level": 29,
+          "damage": 30
+        },
+        {
+          "name": "Terremoto",
+          "attack_type": "tierra",
+          "min_level": 36,
+          "damage": 100
+        },
+        {
+          "name": "Explosión",
+          "attack_type": "normal",
+          "min_level": 43,
+          "damage": 250
+        }
+      ]
+    },
+    {
+      "name": "Golem",
+      "base_health": 100,
+      "types": ["roca", "tierra"],
+      "attacks": [
+        {
+          "name": "Placaje",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Rizo Defensa",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Rizo Defensa",
+          "attack_type": "normal",
+          "min_level": 11,
+          "damage": 30
+        },
+        {
+          "name": "Lanzarrocas",
+          "attack_type": "roca",
+          "min_level": 16,
+          "damage": 50
+        },
+        {
+          "name": "Autodestrucción",
+          "attack_type": "normal",
+          "min_level": 21,
+          "damage": 200
+        },
+        {
+          "name": "Fortaleza",
+          "attack_type": "normal",
+          "min_level": 29,
+          "damage": 30
+        },
+        {
+          "name": "Terremoto",
+          "attack_type": "tierra",
+          "min_level": 36,
+          "damage": 100
+        },
+        {
+          "name": "Explosión",
+          "attack_type": "normal",
+          "min_level": 43,
+          "damage": 250
+        }
+      ]
+    },
+    {
+      "name": "Ponyta",
+      "base_health": 100,
+      "types": ["fuego"],
+      "attacks": [
+        {
+          "name": "Ascuas",
+          "attack_type": "fuego",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Látigo",
+          "attack_type": "normal",
+          "min_level": 30,
+          "damage": 30
+        },
+        {
+          "name": "Pisotón",
+          "attack_type": "normal",
+          "min_level": 32,
+          "damage": 65
+        },
+        {
+          "name": "Gruñido",
+          "attack_type": "normal",
+          "min_level": 35,
+          "damage": 30
+        },
+        {
+          "name": "Giro Fuego",
+          "attack_type": "fuego",
+          "min_level": 39,
+          "damage": 35
+        },
+        {
+          "name": "Derribo",
+          "attack_type": "normal",
+          "min_level": 43,
+          "damage": 90
+        },
+        {
+          "name": "Agilidad",
+          "attack_type": "psiquico",
+          "min_level": 48,
+          "damage": 30
+        }
+      ]
+    },
+    {
+      "name": "Rapidash",
+      "base_health": 100,
+      "types": ["fuego"],
+      "attacks": [
+        {
+          "name": "Ascuas",
+          "attack_type": "fuego",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Látigo",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Pisotón",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 65
+        },
+        {
+          "name": "Gruñido",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Látigo",
+          "attack_type": "normal",
+          "min_level": 30,
+          "damage": 30
+        },
+        {
+          "name": "Pisotón",
+          "attack_type": "normal",
+          "min_level": 32,
+          "damage": 65
+        },
+        {
+          "name": "Gruñido",
+          "attack_type": "normal",
+          "min_level": 35,
+          "damage": 30
+        },
+        {
+          "name": "Giro Fuego",
+          "attack_type": "fuego",
+          "min_level": 39,
+          "damage": 35
+        },
+        {
+          "name": "Derribo",
+          "attack_type": "normal",
+          "min_level": 47,
+          "damage": 90
+        },
+        {
+          "name": "Agilidad",
+          "attack_type": "psiquico",
+          "min_level": 55,
+          "damage": 30
+        }
+      ]
+    },
+    {
+      "name": "Slowpoke",
+      "base_health": 100,
+      "types": ["agua", "psiquico"],
+      "attacks": [
+        {
+          "name": "Confusión",
+          "attack_type": "psiquico",
+          "min_level": 1,
+          "damage": 50
+        },
+        {
+          "name": "Anulación",
+          "attack_type": "normal",
+          "min_level": 18,
+          "damage": 30
+        },
+        {
+          "name": "Golpe Cabeza",
+          "attack_type": "normal",
+          "min_level": 22,
+          "damage": 70
+        },
+        {
+          "name": "Gruñido",
+          "attack_type": "normal",
+          "min_level": 27,
+          "damage": 30
+        },
+        {
+          "name": "Pistola Agua",
+          "attack_type": "agua",
+          "min_level": 33,
+          "damage": 40
+        },
+        {
+          "name": "Amnesia",
+          "attack_type": "psiquico",
+          "min_level": 40,
+          "damage": 30
+        },
+        {
+          "name": "Psíquico",
+          "attack_type": "psiquico",
+          "min_level": 48,
+          "damage": 90
+        }
+      ]
+    },
+    {
+      "name": "Slowbro",
+      "base_health": 100,
+      "types": ["agua", "psiquico"],
+      "attacks": [
+        {
+          "name": "Confusión",
+          "attack_type": "psiquico",
+          "min_level": 1,
+          "damage": 50
+        },
+        {
+          "name": "Anulación",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Golpe Cabeza",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 70
+        },
+        {
+          "name": "Anulación",
+          "attack_type": "normal",
+          "min_level": 18,
+          "damage": 30
+        },
+        {
+          "name": "Golpe Cabeza",
+          "attack_type": "normal",
+          "min_level": 22,
+          "damage": 70
+        },
+        {
+          "name": "Gruñido",
+          "attack_type": "normal",
+          "min_level": 27,
+          "damage": 30
+        },
+        {
+          "name": "Pistola Agua",
+          "attack_type": "agua",
+          "min_level": 33,
+          "damage": 40
+        },
+        {
+          "name": "Refugio",
+          "attack_type": "agua",
+          "min_level": 37,
+          "damage": 30
+        },
+        {
+          "name": "Amnesia",
+          "attack_type": "psiquico",
+          "min_level": 44,
+          "damage": 30
+        },
+        {
+          "name": "Psíquico",
+          "attack_type": "psiquico",
+          "min_level": 55,
+          "damage": 90
+        }
+      ]
+    },
+    {
+      "name": "Magnemite",
+      "base_health": 100,
+      "types": ["electrico", "acero"],
+      "attacks": [
+        {
+          "name": "Placaje",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Bomba Sónica",
+          "attack_type": "normal",
+          "min_level": 21,
+          "damage": 1
+        },
+        {
+          "name": "Impactrueno",
+          "attack_type": "electrico",
+          "min_level": 25,
+          "damage": 40
+        },
+        {
+          "name": "Supersónico",
+          "attack_type": "normal",
+          "min_level": 29,
+          "damage": 30
+        },
+        {
+          "name": "Onda Trueno",
+          "attack_type": "electrico",
+          "min_level": 35,
+          "damage": 30
+        },
+        {
+          "name": "Rapidez",
+          "attack_type": "normal",
+          "min_level": 41,
+          "damage": 60
+        },
+        {
+          "name": "Chirrido",
+          "attack_type": "normal",
+          "min_level": 47,
+          "damage": 30
+        }
+      ]
+    },
+    {
+      "name": "Magneton",
+      "base_health": 100,
+      "types": ["electrico", "acero"],
+      "attacks": [
+        {
+          "name": "Placaje",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Bomba Sónica",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 1
+        },
+        {
+          "name": "Impactrueno",
+          "attack_type": "electrico",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Bomba Sónica",
+          "attack_type": "normal",
+          "min_level": 21,
+          "damage": 1
+        },
+        {
+          "name": "Impactrueno",
+          "attack_type": "electrico",
+          "min_level": 25,
+          "damage": 40
+        },
+        {
+          "name": "Supersónico",
+          "attack_type": "normal",
+          "min_level": 29,
+          "damage": 30
+        },
+        {
+          "name": "Onda Trueno",
+          "attack_type": "electrico",
+          "min_level": 38,
+          "damage": 30
+        },
+        {
+          "name": "Rapidez",
+          "attack_type": "normal",
+          "min_level": 46,
+          "damage": 60
+        },
+        {
+          "name": "Chirrido",
+          "attack_type": "normal",
+          "min_level": 54,
+          "damage": 30
+        }
+      ]
+    },
+    {
+      "name": "Farfetchd",
+      "base_health": 100,
+      "types": ["normal", "volador"],
+      "attacks": [
+        {
+          "name": "Picotazo",
+          "attack_type": "volador",
+          "min_level": 1,
+          "damage": 35
+        },
+        {
+          "name": "Ataque Arena",
+          "attack_type": "tierra",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Malicioso",
+          "attack_type": "normal",
+          "min_level": 7,
+          "damage": 30
+        },
+        {
+          "name": "Ataque Furia",
+          "attack_type": "normal",
+          "min_level": 15,
+          "damage": 15
+        },
+        {
+          "name": "Danza Espada",
+          "attack_type": "normal",
+          "min_level": 23,
+          "damage": 30
+        },
+        {
+          "name": "Agilidad",
+          "attack_type": "psiquico",
+          "min_level": 31,
+          "damage": 30
+        },
+        {
+          "name": "Cuchillada",
+          "attack_type": "normal",
+          "min_level": 39,
+          "damage": 70
+        }
+      ]
+    },
+    {
+      "name": "Doduo",
+      "base_health": 100,
+      "types": ["normal", "volador"],
+      "attacks": [
+        {
+          "name": "Picotazo",
+          "attack_type": "volador",
+          "min_level": 1,
+          "damage": 35
+        },
+        {
+          "name": "Gruñido",
+          "attack_type": "normal",
+          "min_level": 20,
+          "damage": 30
+        },
+        {
+          "name": "Ataque Furia",
+          "attack_type": "normal",
+          "min_level": 24,
+          "damage": 15
+        },
+        {
+          "name": "Pico Taladro",
+          "attack_type": "volador",
+          "min_level": 30,
+          "damage": 80
+        },
+        {
+          "name": "Furia",
+          "attack_type": "normal",
+          "min_level": 36,
+          "damage": 20
+        },
+        {
+          "name": "Triataque",
+          "attack_type": "normal",
+          "min_level": 40,
+          "damage": 80
+        },
+        {
+          "name": "Agilidad",
+          "attack_type": "psiquico",
+          "min_level": 44,
+          "damage": 30
+        }
+      ]
+    },
+    {
+      "name": "Dodrio",
+      "base_health": 100,
+      "types": ["normal", "volador"],
+      "attacks": [
+        {
+          "name": "Picotazo",
+          "attack_type": "volador",
+          "min_level": 1,
+          "damage": 35
+        },
+        {
+          "name": "Gruñido",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Ataque Furia",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 15
+        },
+        {
+          "name": "Gruñido",
+          "attack_type": "normal",
+          "min_level": 20,
+          "damage": 30
+        },
+        {
+          "name": "Ataque Furia",
+          "attack_type": "normal",
+          "min_level": 24,
+          "damage": 15
+        },
+        {
+          "name": "Pico Taladro",
+          "attack_type": "volador",
+          "min_level": 30,
+          "damage": 80
+        },
+        {
+          "name": "Furia",
+          "attack_type": "normal",
+          "min_level": 39,
+          "damage": 20
+        },
+        {
+          "name": "Triataque",
+          "attack_type": "normal",
+          "min_level": 45,
+          "damage": 80
+        },
+        {
+          "name": "Agilidad",
+          "attack_type": "psiquico",
+          "min_level": 51,
+          "damage": 30
+        }
+      ]
+    },
+    {
+      "name": "Seel",
+      "base_health": 100,
+      "types": ["agua"],
+      "attacks": [
+        {
+          "name": "Golpe Cabeza",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 70
+        },
+        {
+          "name": "Gruñido",
+          "attack_type": "normal",
+          "min_level": 30,
+          "damage": 30
+        },
+        {
+          "name": "Rayo Aurora",
+          "attack_type": "hielo",
+          "min_level": 35,
+          "damage": 65
+        },
+        {
+          "name": "Descanso",
+          "attack_type": "psiquico",
+          "min_level": 40,
+          "damage": 30
+        },
+        {
+          "name": "Derribo",
+          "attack_type": "normal",
+          "min_level": 45,
+          "damage": 90
+        },
+        {
+          "name": "Rayo Hielo",
+          "attack_type": "hielo",
+          "min_level": 50,
+          "damage": 90
+        }
+      ]
+    },
+    {
+      "name": "Dewgong",
+      "base_health": 100,
+      "types": ["agua", "hielo"],
+      "attacks": [
+        {
+          "name": "Golpe Cabeza",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 70
+        },
+        {
+          "name": "Gruñido",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Rayo Aurora",
+          "attack_type": "hielo",
+          "min_level": 1,
+          "damage": 65
+        },
+        {
+          "name": "Gruñido",
+          "attack_type": "normal",
+          "min_level": 30,
+          "damage": 30
+        },
+        {
+          "name": "Rayo Aurora",
+          "attack_type": "hielo",
+          "min_level": 35,
+          "damage": 65
+        },
+        {
+          "name": "Descanso",
+          "attack_type": "psiquico",
+          "min_level": 44,
+          "damage": 30
+        },
+        {
+          "name": "Derribo",
+          "attack_type": "normal",
+          "min_level": 50,
+          "damage": 90
+        },
+        {
+          "name": "Rayo Hielo",
+          "attack_type": "hielo",
+          "min_level": 56,
+          "damage": 90
+        }
+      ]
+    },
+    {
+      "name": "Grimer",
+      "base_health": 100,
+      "types": ["veneno"],
+      "attacks": [
+        {
+          "name": "Destructor",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Anulación",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Gas Venenoso",
+          "attack_type": "veneno",
+          "min_level": 30,
+          "damage": 30
+        },
+        {
+          "name": "Reducción",
+          "attack_type": "normal",
+          "min_level": 33,
+          "damage": 30
+        },
+        {
+          "name": "Residuos",
+          "attack_type": "veneno",
+          "min_level": 37,
+          "damage": 65
+        },
+        {
+          "name": "Fortaleza",
+          "attack_type": "normal",
+          "min_level": 42,
+          "damage": 30
+        },
+        {
+          "name": "Chirrido",
+          "attack_type": "normal",
+          "min_level": 48,
+          "damage": 30
+        },
+        {
+          "name": "Armadura Ácida",
+          "attack_type": "veneno",
+          "min_level": 55,
+          "damage": 30
+        }
+      ]
+    },
+    {
+      "name": "Muk",
+      "base_health": 100,
+      "types": ["veneno"],
+      "attacks": [
+        {
+          "name": "Destructor",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Anulación",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Gas Venenoso",
+          "attack_type": "veneno",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Gas Venenoso",
+          "attack_type": "veneno",
+          "min_level": 30,
+          "damage": 30
+        },
+        {
+          "name": "Reducción",
+          "attack_type": "normal",
+          "min_level": 33,
+          "damage": 30
+        },
+        {
+          "name": "Residuos",
+          "attack_type": "veneno",
+          "min_level": 37,
+          "damage": 65
+        },
+        {
+          "name": "Fortaleza",
+          "attack_type": "normal",
+          "min_level": 45,
+          "damage": 30
+        },
+        {
+          "name": "Chirrido",
+          "attack_type": "normal",
+          "min_level": 53,
+          "damage": 30
+        },
+        {
+          "name": "Armadura Ácida",
+          "attack_type": "veneno",
+          "min_level": 60,
+          "damage": 30
+        }
+      ]
+    },
+    {
+      "name": "Shellder",
+      "base_health": 100,
+      "types": ["agua"],
+      "attacks": [
+        {
+          "name": "Placaje",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Refugio",
+          "attack_type": "agua",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Supersónico",
+          "attack_type": "normal",
+          "min_level": 18,
+          "damage": 30
+        },
+        {
+          "name": "Tenaza",
+          "attack_type": "agua",
+          "min_level": 23,
+          "damage": 35
+        },
+        {
+          "name": "Rayo Aurora",
+          "attack_type": "hielo",
+          "min_level": 30,
+          "damage": 65
+        },
+        {
+          "name": "Malicioso",
+          "attack_type": "normal",
+          "min_level": 39,
+          "damage": 30
+        },
+        {
+          "name": "Rayo Hielo",
+          "attack_type": "hielo",
+          "min_level": 50,
+          "damage": 90
+        }
+      ]
+    },
+    {
+      "name": "Cloyster",
+      "base_health": 100,
+      "types": ["agua", "hielo"],
+      "attacks": [
+        {
+          "name": "Refugio",
+          "attack_type": "agua",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Supersónico",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Tenaza",
+          "attack_type": "agua",
+          "min_level": 1,
+          "damage": 35
+        },
+        {
+          "name": "Rayo Aurora",
+          "attack_type": "hielo",
+          "min_level": 1,
+          "damage": 65
+        },
+        {
+          "name": "Clavo Cañón",
+          "attack_type": "normal",
+          "min_level": 50,
+          "damage": 20
+        }
+      ]
+    },
+    {
+      "name": "Gastly",
+      "base_health": 100,
+      "types": ["fantasma", "veneno"],
+      "attacks": [
+        {
+          "name": "Lengüetazo",
+          "attack_type": "fantasma",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Rayo Confuso",
+          "attack_type": "fantasma",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Tinieblas",
+          "attack_type": "fantasma",
+          "min_level": 1,
+          "damage": 1
+        },
+        {
+          "name": "Hipnosis",
+          "attack_type": "psiquico",
+          "min_level": 27,
+          "damage": 30
+        },
+        {
+          "name": "Come Sueños",
+          "attack_type": "psiquico",
+          "min_level": 35,
+          "damage": 100
+        }
+      ]
+    },
+    {
+      "name": "Haunter",
+      "base_health": 100,
+      "types": ["fantasma", "veneno"],
+      "attacks": [
+        {
+          "name": "Lengüetazo",
+          "attack_type": "fantasma",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Rayo Confuso",
+          "attack_type": "fantasma",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Tinieblas",
+          "attack_type": "fantasma",
+          "min_level": 1,
+          "damage": 1
+        },
+        {
+          "name": "Hipnosis",
+          "attack_type": "psiquico",
+          "min_level": 29,
+          "damage": 30
+        },
+        {
+          "name": "Come Sueños",
+          "attack_type": "psiquico",
+          "min_level": 38,
+          "damage": 100
+        }
+      ]
+    },
+    {
+      "name": "Gengar",
+      "base_health": 100,
+      "types": ["fantasma", "veneno"],
+      "attacks": [
+        {
+          "name": "Lengüetazo",
+          "attack_type": "fantasma",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Rayo Confuso",
+          "attack_type": "fantasma",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Tinieblas",
+          "attack_type": "fantasma",
+          "min_level": 1,
+          "damage": 1
+        },
+        {
+          "name": "Hipnosis",
+          "attack_type": "psiquico",
+          "min_level": 29,
+          "damage": 30
+        },
+        {
+          "name": "Come Sueños",
+          "attack_type": "psiquico",
+          "min_level": 38,
+          "damage": 100
+        }
+      ]
+    },
+    {
+      "name": "Onix",
+      "base_health": 100,
+      "types": ["roca", "tierra"],
+      "attacks": [
+        {
+          "name": "Placaje",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Chirrido",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Atadura",
+          "attack_type": "normal",
+          "min_level": 15,
+          "damage": 15
+        },
+        {
+          "name": "Lanzarrocas",
+          "attack_type": "roca",
+          "min_level": 19,
+          "damage": 50
+        },
+        {
+          "name": "Furia",
+          "attack_type": "normal",
+          "min_level": 25,
+          "damage": 20
+        },
+        {
+          "name": "Atizar",
+          "attack_type": "normal",
+          "min_level": 33,
+          "damage": 80
+        },
+        {
+          "name": "Fortaleza",
+          "attack_type": "normal",
+          "min_level": 43,
+          "damage": 30
+        }
+      ]
+    },
+    {
+      "name": "Drowzee",
+      "base_health": 100,
+      "types": ["psiquico"],
+      "attacks": [
+        {
+          "name": "Destructor",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Hipnosis",
+          "attack_type": "psiquico",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Anulación",
+          "attack_type": "normal",
+          "min_level": 12,
+          "damage": 30
+        },
+        {
+          "name": "Confusión",
+          "attack_type": "psiquico",
+          "min_level": 17,
+          "damage": 50
+        },
+        {
+          "name": "Golpe Cabeza",
+          "attack_type": "normal",
+          "min_level": 24,
+          "damage": 70
+        },
+        {
+          "name": "Gas Venenoso",
+          "attack_type": "veneno",
+          "min_level": 29,
+          "damage": 30
+        },
+        {
+          "name": "Psíquico",
+          "attack_type": "psiquico",
+          "min_level": 32,
+          "damage": 90
+        },
+        {
+          "name": "Meditación",
+          "attack_type": "psiquico",
+          "min_level": 37,
+          "damage": 30
+        }
+      ]
+    },
+    {
+      "name": "Hypno",
+      "base_health": 100,
+      "types": ["psiquico"],
+      "attacks": [
+        {
+          "name": "Destructor",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Hipnosis",
+          "attack_type": "psiquico",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Anulación",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Confusión",
+          "attack_type": "psiquico",
+          "min_level": 1,
+          "damage": 50
+        },
+        {
+          "name": "Anulación",
+          "attack_type": "normal",
+          "min_level": 12,
+          "damage": 30
+        },
+        {
+          "name": "Confusión",
+          "attack_type": "psiquico",
+          "min_level": 17,
+          "damage": 50
+        },
+        {
+          "name": "Golpe Cabeza",
+          "attack_type": "normal",
+          "min_level": 24,
+          "damage": 70
+        },
+        {
+          "name": "Gas Venenoso",
+          "attack_type": "veneno",
+          "min_level": 33,
+          "damage": 30
+        },
+        {
+          "name": "Psíquico",
+          "attack_type": "psiquico",
+          "min_level": 37,
+          "damage": 90
+        },
+        {
+          "name": "Meditación",
+          "attack_type": "psiquico",
+          "min_level": 43,
+          "damage": 30
+        }
+      ]
+    },
+    {
+      "name": "Krabby",
+      "base_health": 100,
+      "types": ["agua"],
+      "attacks": [
+        {
+          "name": "Burbuja",
+          "attack_type": "agua",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Malicioso",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Agarre",
+          "attack_type": "normal",
+          "min_level": 20,
+          "damage": 55
+        },
+        {
+          "name": "Guillotina",
+          "attack_type": "normal",
+          "min_level": 25,
+          "damage": 1
+        },
+        {
+          "name": "Pisotón",
+          "attack_type": "normal",
+          "min_level": 30,
+          "damage": 65
+        },
+        {
+          "name": "Martillazo",
+          "attack_type": "agua",
+          "min_level": 35,
+          "damage": 100
+        },
+        {
+          "name": "Fortaleza",
+          "attack_type": "normal",
+          "min_level": 40,
+          "damage": 30
+        }
+      ]
+    },
+    {
+      "name": "Kingler",
+      "base_health": 100,
+      "types": ["agua"],
+      "attacks": [
+        {
+          "name": "Burbuja",
+          "attack_type": "agua",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Malicioso",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Agarre",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 55
+        },
+        {
+          "name": "Agarre",
+          "attack_type": "normal",
+          "min_level": 20,
+          "damage": 55
+        },
+        {
+          "name": "Guillotina",
+          "attack_type": "normal",
+          "min_level": 25,
+          "damage": 1
+        },
+        {
+          "name": "Pisotón",
+          "attack_type": "normal",
+          "min_level": 34,
+          "damage": 65
+        },
+        {
+          "name": "Martillazo",
+          "attack_type": "agua",
+          "min_level": 42,
+          "damage": 100
+        },
+        {
+          "name": "Fortaleza",
+          "attack_type": "normal",
+          "min_level": 49,
+          "damage": 30
+        }
+      ]
+    },
+    {
+      "name": "Voltorb",
+      "base_health": 100,
+      "types": ["electrico"],
+      "attacks": [
+        {
+          "name": "Placaje",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Chirrido",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Bomba Sónica",
+          "attack_type": "normal",
+          "min_level": 17,
+          "damage": 1
+        },
+        {
+          "name": "Autodestrucción",
+          "attack_type": "normal",
+          "min_level": 22,
+          "damage": 200
+        },
+        {
+          "name": "Pantalla de Luz",
+          "attack_type": "psiquico",
+          "min_level": 29,
+          "damage": 30
+        },
+        {
+          "name": "Rapidez",
+          "attack_type": "normal",
+          "min_level": 36,
+          "damage": 60
+        },
+        {
+          "name": "Explosión",
+          "attack_type": "normal",
+          "min_level": 43,
+          "damage": 250
+        }
+      ]
+    },
+    {
+      "name": "Electrode",
+      "base_health": 100,
+      "types": ["electrico"],
+      "attacks": [
+        {
+          "name": "Placaje",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Chirrido",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Bomba Sónica",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 1
+        },
+        {
+          "name": "Bomba Sónica",
+          "attack_type": "normal",
+          "min_level": 17,
+          "damage": 1
+        },
+        {
+          "name": "Autodestrucción",
+          "attack_type": "normal",
+          "min_level": 22,
+          "damage": 200
+        },
+        {
+          "name": "Pantalla de Luz",
+          "attack_type": "psiquico",
+          "min_level": 29,
+          "damage": 30
+        },
+        {
+          "name": "Rapidez",
+          "attack_type": "normal",
+          "min_level": 40,
+          "damage": 60
+        },
+        {
+          "name": "Explosión",
+          "attack_type": "normal",
+          "min_level": 50,
+          "damage": 250
+        }
+      ]
+    },
+    {
+      "name": "Exeggcute",
+      "base_health": 100,
+      "types": ["planta", "psiquico"],
+      "attacks": [
+        {
+          "name": "Presa",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 15
+        },
+        {
+          "name": "Hipnosis",
+          "attack_type": "psiquico",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Reflejo",
+          "attack_type": "psiquico",
+          "min_level": 25,
+          "damage": 30
+        },
+        {
+          "name": "Drenadoras",
+          "attack_type": "planta",
+          "min_level": 28,
+          "damage": 30
+        },
+        {
+          "name": "Paralizador",
+          "attack_type": "planta",
+          "min_level": 32,
+          "damage": 30
+        },
+        {
+          "name": "Polvo Veneno",
+          "attack_type": "veneno",
+          "min_level": 37,
+          "damage": 30
+        },
+        {
+          "name": "Rayo Solar",
+          "attack_type": "planta",
+          "min_level": 42,
+          "damage": 120
+        },
+        {
+          "name": "Somnífero",
+          "attack_type": "planta",
+          "min_level": 48,
+          "damage": 30
+        }
+      ]
+    },
+    {
+      "name": "Exeggutor",
+      "base_health": 100,
+      "types": ["planta", "psiquico"],
+      "attacks": [
+        {
+          "name": "Presa",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 15
+        },
+        {
+          "name": "Hipnosis",
+          "attack_type": "psiquico",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Pisotón",
+          "attack_type": "normal",
+          "min_level": 28,
+          "damage": 65
+        }
+      ]
+    },
+    {
+      "name": "Cubone",
+      "base_health": 100,
+      "types": ["tierra"],
+      "attacks": [
+        {
+          "name": "Gruñido",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Hueso Palo",
+          "attack_type": "tierra",
+          "min_level": 1,
+          "damage": 65
+        },
+        {
+          "name": "Látigo",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Golpe Cabeza",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 70
+        },
+        {
+          "name": "Malicioso",
+          "attack_type": "normal",
+          "min_level": 25,
+          "damage": 30
+        },
+        {
+          "name": "Foco Energía",
+          "attack_type": "normal",
+          "min_level": 31,
+          "damage": 30
+        },
+        {
+          "name": "Golpe",
+          "attack_type": "normal",
+          "min_level": 38,
+          "damage": 120
+        },
+        {
+          "name": "Huesomerang",
+          "attack_type": "tierra",
+          "min_level": 43,
+          "damage": 50
+        },
+        {
+          "name": "Furia",
+          "attack_type": "normal",
+          "min_level": 46,
+          "damage": 20
+        }
+      ]
+    },
+    {
+      "name": "Marowak",
+      "base_health": 100,
+      "types": ["tierra"],
+      "attacks": [
+        {
+          "name": "Hueso Palo",
+          "attack_type": "tierra",
+          "min_level": 1,
+          "damage": 65
+        },
+        {
+          "name": "Gruñido",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Malicioso",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Foco Energía",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Látigo",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Hueso Palo",
+          "attack_type": "tierra",
+          "min_level": 1,
+          "damage": 65
+        },
+        {
+          "name": "Látigo",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Golpe Cabeza",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 70
+        },
+        {
+          "name": "Malicioso",
+          "attack_type": "normal",
+          "min_level": 25,
+          "damage": 30
+        },
+        {
+          "name": "Foco Energía",
+          "attack_type": "normal",
+          "min_level": 33,
+          "damage": 30
+        },
+        {
+          "name": "Golpe",
+          "attack_type": "normal",
+          "min_level": 41,
+          "damage": 120
+        },
+        {
+          "name": "Huesomerang",
+          "attack_type": "tierra",
+          "min_level": 48,
+          "damage": 50
+        },
+        {
+          "name": "Furia",
+          "attack_type": "normal",
+          "min_level": 55,
+          "damage": 20
+        }
+      ]
+    },
+    {
+      "name": "Hitmonlee",
+      "base_health": 100,
+      "types": ["lucha"],
+      "attacks": [
+        {
+          "name": "Doble Patada",
+          "attack_type": "lucha",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Meditación",
+          "attack_type": "psiquico",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Patada Giro",
+          "attack_type": "lucha",
+          "min_level": 33,
+          "damage": 60
+        },
+        {
+          "name": "Patada Salto",
+          "attack_type": "lucha",
+          "min_level": 38,
+          "damage": 100
+        },
+        {
+          "name": "Foco Energía",
+          "attack_type": "normal",
+          "min_level": 43,
+          "damage": 30
+        },
+        {
+          "name": "Pat. Salto Alta",
+          "attack_type": "lucha",
+          "min_level": 48,
+          "damage": 130
+        },
+        {
+          "name": "Megapatada",
+          "attack_type": "normal",
+          "min_level": 53,
+          "damage": 120
+        }
+      ]
+    },
+    {
+      "name": "Hitmonchan",
+      "base_health": 100,
+      "types": ["lucha"],
+      "attacks": [
+        {
+          "name": "Puño Cometa",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 18
+        },
+        {
+          "name": "Agilidad",
+          "attack_type": "psiquico",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Puño Fuego",
+          "attack_type": "fuego",
+          "min_level": 33,
+          "damage": 75
+        },
+        {
+          "name": "Puño Hielo",
+          "attack_type": "hielo",
+          "min_level": 38,
+          "damage": 75
+        },
+        {
+          "name": "Puño Trueno",
+          "attack_type": "electrico",
+          "min_level": 43,
+          "damage": 75
+        },
+        {
+          "name": "Megapuño",
+          "attack_type": "normal",
+          "min_level": 48,
+          "damage": 80
+        },
+        {
+          "name": "Contraataque",
+          "attack_type": "lucha",
+          "min_level": 53,
+          "damage": 1
+        }
+      ]
+    },
+    {
+      "name": "Lickitung",
+      "base_health": 100,
+      "types": ["normal"],
+      "attacks": [
+        {
+          "name": "Constricción",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 15
+        },
+        {
+          "name": "Supersónico",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Pisotón",
+          "attack_type": "normal",
+          "min_level": 7,
+          "damage": 65
+        },
+        {
+          "name": "Anulación",
+          "attack_type": "normal",
+          "min_level": 15,
+          "damage": 30
+        },
+        {
+          "name": "Rizo Defensa",
+          "attack_type": "normal",
+          "min_level": 23,
+          "damage": 30
+        },
+        {
+          "name": "Atizar",
+          "attack_type": "normal",
+          "min_level": 31,
+          "damage": 80
+        },
+        {
+          "name": "Chirrido",
+          "attack_type": "normal",
+          "min_level": 39,
+          "damage": 30
+        }
+      ]
+    },
+    {
+      "name": "Koffing",
+      "base_health": 100,
+      "types": ["veneno"],
+      "attacks": [
+        {
+          "name": "Placaje",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Polución",
+          "attack_type": "veneno",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Residuos",
+          "attack_type": "veneno",
+          "min_level": 32,
+          "damage": 65
+        },
+        {
+          "name": "Pantalla de Humo",
+          "attack_type": "normal",
+          "min_level": 37,
+          "damage": 30
+        },
+        {
+          "name": "Autodestrucción",
+          "attack_type": "normal",
+          "min_level": 40,
+          "damage": 200
+        },
+        {
+          "name": "Niebla",
+          "attack_type": "hielo",
+          "min_level": 45,
+          "damage": 30
+        },
+        {
+          "name": "Explosión",
+          "attack_type": "normal",
+          "min_level": 48,
+          "damage": 250
+        }
+      ]
+    },
+    {
+      "name": "Weezing",
+      "base_health": 100,
+      "types": ["veneno"],
+      "attacks": [
+        {
+          "name": "Placaje",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Polución",
+          "attack_type": "veneno",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Residuos",
+          "attack_type": "veneno",
+          "min_level": 1,
+          "damage": 65
+        },
+        {
+          "name": "Residuos",
+          "attack_type": "veneno",
+          "min_level": 32,
+          "damage": 65
+        },
+        {
+          "name": "Pantalla de Humo",
+          "attack_type": "normal",
+          "min_level": 39,
+          "damage": 30
+        },
+        {
+          "name": "Autodestrucción",
+          "attack_type": "normal",
+          "min_level": 43,
+          "damage": 200
+        },
+        {
+          "name": "Niebla",
+          "attack_type": "hielo",
+          "min_level": 49,
+          "damage": 30
+        },
+        {
+          "name": "Explosión",
+          "attack_type": "normal",
+          "min_level": 53,
+          "damage": 250
+        }
+      ]
+    },
+    {
+      "name": "Rhyhorn",
+      "base_health": 100,
+      "types": ["tierra", "roca"],
+      "attacks": [
+        {
+          "name": "Cornada",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 65
+        },
+        {
+          "name": "Pisotón",
+          "attack_type": "normal",
+          "min_level": 30,
+          "damage": 65
+        },
+        {
+          "name": "Látigo",
+          "attack_type": "normal",
+          "min_level": 35,
+          "damage": 30
+        },
+        {
+          "name": "Ataque Furia",
+          "attack_type": "normal",
+          "min_level": 40,
+          "damage": 15
+        },
+        {
+          "name": "Perforador",
+          "attack_type": "normal",
+          "min_level": 45,
+          "damage": 1
+        },
+        {
+          "name": "Malicioso",
+          "attack_type": "normal",
+          "min_level": 50,
+          "damage": 30
+        },
+        {
+          "name": "Derribo",
+          "attack_type": "normal",
+          "min_level": 55,
+          "damage": 90
+        }
+      ]
+    },
+    {
+      "name": "Rhydon",
+      "base_health": 100,
+      "types": ["tierra", "roca"],
+      "attacks": [
+        {
+          "name": "Cornada",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 65
+        },
+        {
+          "name": "Pisotón",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 65
+        },
+        {
+          "name": "Látigo",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Ataque Furia",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 15
+        },
+        {
+          "name": "Pisotón",
+          "attack_type": "normal",
+          "min_level": 30,
+          "damage": 65
+        },
+        {
+          "name": "Látigo",
+          "attack_type": "normal",
+          "min_level": 35,
+          "damage": 30
+        },
+        {
+          "name": "Ataque Furia",
+          "attack_type": "normal",
+          "min_level": 40,
+          "damage": 15
+        },
+        {
+          "name": "Perforador",
+          "attack_type": "normal",
+          "min_level": 48,
+          "damage": 1
+        },
+        {
+          "name": "Malicioso",
+          "attack_type": "normal",
+          "min_level": 55,
+          "damage": 30
+        },
+        {
+          "name": "Derribo",
+          "attack_type": "normal",
+          "min_level": 64,
+          "damage": 90
+        }
+      ]
+    },
+    {
+      "name": "Chansey",
+      "base_health": 100,
+      "types": ["normal"],
+      "attacks": [
+        {
+          "name": "Destructor",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Látigo",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Doble Bofetón",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 15
+        },
+        {
+          "name": "Canto",
+          "attack_type": "normal",
+          "min_level": 24,
+          "damage": 30
+        },
+        {
+          "name": "Gruñido",
+          "attack_type": "normal",
+          "min_level": 30,
+          "damage": 30
+        },
+        {
+          "name": "Reducción",
+          "attack_type": "normal",
+          "min_level": 38,
+          "damage": 30
+        },
+        {
+          "name": "Rizo Defensa",
+          "attack_type": "normal",
+          "min_level": 44,
+          "damage": 30
+        },
+        {
+          "name": "Pantalla de Luz",
+          "attack_type": "psiquico",
+          "min_level": 48,
+          "damage": 30
+        },
+        {
+          "name": "Doble Filo",
+          "attack_type": "normal",
+          "min_level": 54,
+          "damage": 120
+        }
+      ]
+    },
+    {
+      "name": "Tangela",
+      "base_health": 100,
+      "types": ["planta"],
+      "attacks": [
+        {
+          "name": "Restricción",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 10
+        },
+        {
+          "name": "Atadura",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 15
+        },
+        {
+          "name": "Absorber",
+          "attack_type": "planta",
+          "min_level": 29,
+          "damage": 20
+        },
+        {
+          "name": "Látigo Cepa",
+          "attack_type": "planta",
+          "min_level": 1,
+          "damage": 45
+        },
+        {
+          "name": "Polvo Veneno",
+          "attack_type": "veneno",
+          "min_level": 32,
+          "damage": 30
+        },
+        {
+          "name": "Paralizador",
+          "attack_type": "planta",
+          "min_level": 36,
+          "damage": 30
+        },
+        {
+          "name": "Somnífero",
+          "attack_type": "planta",
+          "min_level": 39,
+          "damage": 30
+        },
+        {
+          "name": "Atizar",
+          "attack_type": "normal",
+          "min_level": 45,
+          "damage": 80
+        },
+        {
+          "name": "Desarrollo",
+          "attack_type": "normal",
+          "min_level": 49,
+          "damage": 30
+        }
+      ]
+    },
+    {
+      "name": "Kangaskhan",
+      "base_health": 100,
+      "types": ["normal"],
+      "attacks": [
+        {
+          "name": "Puño Cometa",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 18
+        },
+        {
+          "name": "Furia",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 20
+        },
+        {
+          "name": "Mordisco",
+          "attack_type": "siniestro",
+          "min_level": 26,
+          "damage": 60
+        },
+        {
+          "name": "Látigo",
+          "attack_type": "normal",
+          "min_level": 31,
+          "damage": 30
+        },
+        {
+          "name": "Megapuño",
+          "attack_type": "normal",
+          "min_level": 36,
+          "damage": 80
+        },
+        {
+          "name": "Malicioso",
+          "attack_type": "normal",
+          "min_level": 41,
+          "damage": 30
+        },
+        {
+          "name": "Puño Mareo",
+          "attack_type": "normal",
+          "min_level": 46,
+          "damage": 70
+        }
+      ]
+    },
+    {
+      "name": "Horsea",
+      "base_health": 100,
+      "types": ["agua"],
+      "attacks": [
+        {
+          "name": "Burbuja",
+          "attack_type": "agua",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Pantalla de Humo",
+          "attack_type": "normal",
+          "min_level": 19,
+          "damage": 30
+        },
+        {
+          "name": "Malicioso",
+          "attack_type": "normal",
+          "min_level": 24,
+          "damage": 30
+        },
+        {
+          "name": "Pistola Agua",
+          "attack_type": "agua",
+          "min_level": 30,
+          "damage": 40
+        },
+        {
+          "name": "Agilidad",
+          "attack_type": "psiquico",
+          "min_level": 37,
+          "damage": 30
+        },
+        {
+          "name": "Hidrobomba",
+          "attack_type": "agua",
+          "min_level": 45,
+          "damage": 110
+        }
+      ]
+    },
+    {
+      "name": "Seadra",
+      "base_health": 100,
+      "types": ["agua"],
+      "attacks": [
+        {
+          "name": "Burbuja",
+          "attack_type": "agua",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Pantalla de Humo",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Pantalla de Humo",
+          "attack_type": "normal",
+          "min_level": 19,
+          "damage": 30
+        },
+        {
+          "name": "Malicioso",
+          "attack_type": "normal",
+          "min_level": 24,
+          "damage": 30
+        },
+        {
+          "name": "Pistola Agua",
+          "attack_type": "agua",
+          "min_level": 30,
+          "damage": 40
+        },
+        {
+          "name": "Agilidad",
+          "attack_type": "psiquico",
+          "min_level": 41,
+          "damage": 30
+        },
+        {
+          "name": "Hidrobomba",
+          "attack_type": "agua",
+          "min_level": 52,
+          "damage": 110
+        }
+      ]
+    },
+    {
+      "name": "Goldeen",
+      "base_health": 100,
+      "types": ["agua"],
+      "attacks": [
+        {
+          "name": "Picotazo",
+          "attack_type": "volador",
+          "min_level": 1,
+          "damage": 35
+        },
+        {
+          "name": "Látigo",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Supersónico",
+          "attack_type": "normal",
+          "min_level": 19,
+          "damage": 30
+        },
+        {
+          "name": "Cornada",
+          "attack_type": "normal",
+          "min_level": 24,
+          "damage": 65
+        },
+        {
+          "name": "Ataque Furia",
+          "attack_type": "normal",
+          "min_level": 30,
+          "damage": 15
+        },
+        {
+          "name": "Cascada",
+          "attack_type": "agua",
+          "min_level": 37,
+          "damage": 80
+        },
+        {
+          "name": "Perforador",
+          "attack_type": "normal",
+          "min_level": 45,
+          "damage": 1
+        },
+        {
+          "name": "Agilidad",
+          "attack_type": "psiquico",
+          "min_level": 54,
+          "damage": 30
+        }
+      ]
+    },
+    {
+      "name": "Seaking",
+      "base_health": 100,
+      "types": ["agua"],
+      "attacks": [
+        {
+          "name": "Picotazo",
+          "attack_type": "volador",
+          "min_level": 1,
+          "damage": 35
+        },
+        {
+          "name": "Látigo",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Supersónico",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Supersónico",
+          "attack_type": "normal",
+          "min_level": 19,
+          "damage": 30
+        },
+        {
+          "name": "Cornada",
+          "attack_type": "normal",
+          "min_level": 24,
+          "damage": 65
+        },
+        {
+          "name": "Ataque Furia",
+          "attack_type": "normal",
+          "min_level": 30,
+          "damage": 15
+        },
+        {
+          "name": "Cascada",
+          "attack_type": "agua",
+          "min_level": 39,
+          "damage": 80
+        },
+        {
+          "name": "Perforador",
+          "attack_type": "normal",
+          "min_level": 48,
+          "damage": 1
+        },
+        {
+          "name": "Agilidad",
+          "attack_type": "psiquico",
+          "min_level": 54,
+          "damage": 30
+        }
+      ]
+    },
+    {
+      "name": "Staryu",
+      "base_health": 100,
+      "types": ["agua"],
+      "attacks": [
+        {
+          "name": "Placaje",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Pistola Agua",
+          "attack_type": "agua",
+          "min_level": 17,
+          "damage": 40
+        },
+        {
+          "name": "Fortaleza",
+          "attack_type": "normal",
+          "min_level": 22,
+          "damage": 30
+        },
+        {
+          "name": "Recuperación",
+          "attack_type": "normal",
+          "min_level": 27,
+          "damage": 30
+        },
+        {
+          "name": "Rapidez",
+          "attack_type": "normal",
+          "min_level": 32,
+          "damage": 60
+        },
+        {
+          "name": "Reducción",
+          "attack_type": "normal",
+          "min_level": 37,
+          "damage": 30
+        },
+        {
+          "name": "Pantalla de Luz",
+          "attack_type": "psiquico",
+          "min_level": 42,
+          "damage": 30
+        },
+        {
+          "name": "Hidrobomba",
+          "attack_type": "agua",
+          "min_level": 47,
+          "damage": 110
+        }
+      ]
+    },
+    {
+      "name": "Starmie",
+      "base_health": 100,
+      "types": ["agua", "psiquico"],
+      "attacks": [
+        {
+          "name": "Placaje",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Pistola Agua",
+          "attack_type": "agua",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Fortaleza",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        }
+      ]
+    },
+    {
+      "name": "Mr. Mime",
+      "base_health": 100,
+      "types": ["psiquico", "hada"],
+      "attacks": [
+        {
+          "name": "Confusión",
+          "attack_type": "psiquico",
+          "min_level": 1,
+          "damage": 50
+        },
+        {
+          "name": "Barrera",
+          "attack_type": "psiquico",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Confusión",
+          "attack_type": "psiquico",
+          "min_level": 15,
+          "damage": 50
+        },
+        {
+          "name": "Pantalla de Luz",
+          "attack_type": "psiquico",
+          "min_level": 23,
+          "damage": 30
+        },
+        {
+          "name": "Doble Bofetón",
+          "attack_type": "normal",
+          "min_level": 31,
+          "damage": 15
+        },
+        {
+          "name": "Meditación",
+          "attack_type": "psiquico",
+          "min_level": 39,
+          "damage": 30
+        },
+        {
+          "name": "Sustituto",
+          "attack_type": "normal",
+          "min_level": 47,
+          "damage": 30
+        }
+      ]
+    },
+    {
+      "name": "Scyther",
+      "base_health": 100,
+      "types": ["bicho", "volador"],
+      "attacks": [
+        {
+          "name": "Ataque Rápido",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Malicioso",
+          "attack_type": "normal",
+          "min_level": 17,
+          "damage": 30
+        },
+        {
+          "name": "Foco Energía",
+          "attack_type": "normal",
+          "min_level": 20,
+          "damage": 30
+        },
+        {
+          "name": "Doble Equipo",
+          "attack_type": "normal",
+          "min_level": 24,
+          "damage": 30
+        },
+        {
+          "name": "Cuchillada",
+          "attack_type": "normal",
+          "min_level": 29,
+          "damage": 70
+        },
+        {
+          "name": "Danza Espada",
+          "attack_type": "normal",
+          "min_level": 35,
+          "damage": 30
+        },
+        {
+          "name": "Agilidad",
+          "attack_type": "psiquico",
+          "min_level": 42,
+          "damage": 30
+        },
+        {
+          "name": "Ataque Ala",
+          "attack_type": "volador",
+          "min_level": 1,
+          "damage": 60
+        }
+      ]
+    },
+    {
+      "name": "Jynx",
+      "base_health": 100,
+      "types": ["hielo", "psiquico"],
+      "attacks": [
+        {
+          "name": "Destructor",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Beso Amoroso",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Lengüetazo",
+          "attack_type": "fantasma",
+          "min_level": 18,
+          "damage": 30
+        },
+        {
+          "name": "Doble Bofetón",
+          "attack_type": "normal",
+          "min_level": 23,
+          "damage": 15
+        },
+        {
+          "name": "Puño Hielo",
+          "attack_type": "hielo",
+          "min_level": 31,
+          "damage": 75
+        },
+        {
+          "name": "Golpe Cuerpo",
+          "attack_type": "normal",
+          "min_level": 39,
+          "damage": 85
+        },
+        {
+          "name": "Golpe",
+          "attack_type": "normal",
+          "min_level": 47,
+          "damage": 120
+        },
+        {
+          "name": "Ventisca",
+          "attack_type": "hielo",
+          "min_level": 58,
+          "damage": 110
+        }
+      ]
+    },
+    {
+      "name": "Electabuzz",
+      "base_health": 100,
+      "types": ["electrico"],
+      "attacks": [
+        {
+          "name": "Ataque Rápido",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Malicioso",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Impactrueno",
+          "attack_type": "electrico",
+          "min_level": 34,
+          "damage": 40
+        },
+        {
+          "name": "Chirrido",
+          "attack_type": "normal",
+          "min_level": 37,
+          "damage": 30
+        },
+        {
+          "name": "Puño Trueno",
+          "attack_type": "electrico",
+          "min_level": 42,
+          "damage": 75
+        },
+        {
+          "name": "Pantalla de Luz",
+          "attack_type": "psiquico",
+          "min_level": 49,
+          "damage": 30
+        },
+        {
+          "name": "Trueno",
+          "attack_type": "electrico",
+          "min_level": 54,
+          "damage": 110
+        }
+      ]
+    },
+    {
+      "name": "Magmar",
+      "base_health": 100,
+      "types": ["fuego"],
+      "attacks": [
+        {
+          "name": "Ascuas",
+          "attack_type": "fuego",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Malicioso",
+          "attack_type": "normal",
+          "min_level": 36,
+          "damage": 30
+        },
+        {
+          "name": "Rayo Confuso",
+          "attack_type": "fantasma",
+          "min_level": 39,
+          "damage": 30
+        },
+        {
+          "name": "Puño Fuego",
+          "attack_type": "fuego",
+          "min_level": 43,
+          "damage": 75
+        },
+        {
+          "name": "Pantalla de Humo",
+          "attack_type": "normal",
+          "min_level": 48,
+          "damage": 30
+        },
+        {
+          "name": "Polución",
+          "attack_type": "veneno",
+          "min_level": 52,
+          "damage": 30
+        },
+        {
+          "name": "Lanzallamas",
+          "attack_type": "fuego",
+          "min_level": 55,
+          "damage": 90
+        }
+      ]
+    },
+    {
+      "name": "Pinsir",
+      "base_health": 100,
+      "types": ["bicho"],
+      "attacks": [
+        {
+          "name": "Agarre",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 55
+        },
+        {
+          "name": "Atadura",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 15
+        },
+        {
+          "name": "Mov. Sísmico",
+          "attack_type": "lucha",
+          "min_level": 25,
+          "damage": 1
+        },
+        {
+          "name": "Guillotina",
+          "attack_type": "normal",
+          "min_level": 30,
+          "damage": 1
+        },
+        {
+          "name": "Foco Energía",
+          "attack_type": "normal",
+          "min_level": 36,
+          "damage": 30
+        },
+        {
+          "name": "Fortaleza",
+          "attack_type": "normal",
+          "min_level": 43,
+          "damage": 30
+        },
+        {
+          "name": "Cuchillada",
+          "attack_type": "normal",
+          "min_level": 49,
+          "damage": 70
+        },
+        {
+          "name": "Danza Espada",
+          "attack_type": "normal",
+          "min_level": 54,
+          "damage": 30
+        }
+      ]
+    },
+    {
+      "name": "Tauros",
+      "base_health": 100,
+      "types": ["normal"],
+      "attacks": [
+        {
+          "name": "Placaje",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Pisotón",
+          "attack_type": "normal",
+          "min_level": 21,
+          "damage": 65
+        },
+        {
+          "name": "Látigo",
+          "attack_type": "normal",
+          "min_level": 28,
+          "damage": 30
+        },
+        {
+          "name": "Malicioso",
+          "attack_type": "normal",
+          "min_level": 35,
+          "damage": 30
+        },
+        {
+          "name": "Furia",
+          "attack_type": "normal",
+          "min_level": 44,
+          "damage": 20
+        },
+        {
+          "name": "Derribo",
+          "attack_type": "normal",
+          "min_level": 51,
+          "damage": 90
+        }
+      ]
+    },
+    {
+      "name": "Magikarp",
+      "base_health": 100,
+      "types": ["agua"],
+      "attacks": [
+        {
+          "name": "Salpicadura",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Placaje",
+          "attack_type": "normal",
+          "min_level": 15,
+          "damage": 40
+        }
+      ]
+    },
+    {
+      "name": "Gyarados",
+      "base_health": 100,
+      "types": ["agua", "volador"],
+      "attacks": [
+        {
+          "name": "Placaje",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Mordisco",
+          "attack_type": "siniestro",
+          "min_level": 1,
+          "damage": 60
+        },
+        {
+          "name": "Furia Dragón",
+          "attack_type": "dragon",
+          "min_level": 1,
+          "damage": 1
+        },
+        {
+          "name": "Malicioso",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Hidrobomba",
+          "attack_type": "agua",
+          "min_level": 1,
+          "damage": 110
+        },
+        {
+          "name": "Mordisco",
+          "attack_type": "siniestro",
+          "min_level": 20,
+          "damage": 60
+        },
+        {
+          "name": "Furia Dragón",
+          "attack_type": "dragon",
+          "min_level": 25,
+          "damage": 1
+        },
+        {
+          "name": "Malicioso",
+          "attack_type": "normal",
+          "min_level": 32,
+          "damage": 30
+        },
+        {
+          "name": "Hidrobomba",
+          "attack_type": "agua",
+          "min_level": 41,
+          "damage": 110
+        },
+        {
+          "name": "Hiperrayo",
+          "attack_type": "normal",
+          "min_level": 52,
+          "damage": 150
+        }
+      ]
+    },
+    {
+      "name": "Lapras",
+      "base_health": 100,
+      "types": ["agua", "hielo"],
+      "attacks": [
+        {
+          "name": "Pistola Agua",
+          "attack_type": "agua",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Gruñido",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Canto",
+          "attack_type": "normal",
+          "min_level": 16,
+          "damage": 30
+        },
+        {
+          "name": "Neblina",
+          "attack_type": "hielo",
+          "min_level": 20,
+          "damage": 30
+        },
+        {
+          "name": "Golpe Cuerpo",
+          "attack_type": "normal",
+          "min_level": 25,
+          "damage": 85
+        },
+        {
+          "name": "Rayo Confuso",
+          "attack_type": "fantasma",
+          "min_level": 31,
+          "damage": 30
+        },
+        {
+          "name": "Rayo Hielo",
+          "attack_type": "hielo",
+          "min_level": 38,
+          "damage": 90
+        },
+        {
+          "name": "Hidrobomba",
+          "attack_type": "agua",
+          "min_level": 46,
+          "damage": 110
+        }
+      ]
+    },
+    {
+      "name": "Ditto",
+      "base_health": 100,
+      "types": ["normal"],
+      "attacks": [
+        {
+          "name": "Transformación",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        }
+      ]
+    },
+    {
+      "name": "Eevee",
+      "base_health": 100,
+      "types": ["normal"],
+      "attacks": [
+        {
+          "name": "Placaje",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Látigo",
+          "attack_type": "normal",
+          "min_level": 31,
+          "damage": 30
+        },
+        {
+          "name": "Ataque Arena",
+          "attack_type": "tierra",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Gruñido",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Ataque Rápido",
+          "attack_type": "normal",
+          "min_level": 27,
+          "damage": 40
+        },
+        {
+          "name": "Mordisco",
+          "attack_type": "siniestro",
+          "min_level": 37,
+          "damage": 60
+        },
+        {
+          "name": "Foco Energía",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Derribo",
+          "attack_type": "normal",
+          "min_level": 45,
+          "damage": 90
+        }
+      ]
+    },
+    {
+      "name": "Vaporeon",
+      "base_health": 100,
+      "types": ["agua"],
+      "attacks": [
+        {
+          "name": "Placaje",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Látigo",
+          "attack_type": "normal",
+          "min_level": 37,
+          "damage": 30
+        },
+        {
+          "name": "Ataque Rápido",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Pistola Agua",
+          "attack_type": "agua",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Ataque Arena",
+          "attack_type": "tierra",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Pistola Agua",
+          "attack_type": "agua",
+          "min_level": 31,
+          "damage": 40
+        },
+        {
+          "name": "Ataque Rápido",
+          "attack_type": "normal",
+          "min_level": 27,
+          "damage": 40
+        },
+        {
+          "name": "Mordisco",
+          "attack_type": "siniestro",
+          "min_level": 40,
+          "damage": 60
+        },
+        {
+          "name": "Rayo Aurora",
+          "attack_type": "hielo",
+          "min_level": 1,
+          "damage": 65
+        },
+        {
+          "name": "Niebla",
+          "attack_type": "hielo",
+          "min_level": 44,
+          "damage": 30
+        },
+        {
+          "name": "Armadura Ácida",
+          "attack_type": "veneno",
+          "min_level": 42,
+          "damage": 30
+        },
+        {
+          "name": "Neblina",
+          "attack_type": "hielo",
+          "min_level": 48,
+          "damage": 30
+        },
+        {
+          "name": "Hidrobomba",
+          "attack_type": "agua",
+          "min_level": 54,
+          "damage": 110
+        }
+      ]
+    },
+    {
+      "name": "Jolteon",
+      "base_health": 100,
+      "types": ["electrico"],
+      "attacks": [
+        {
+          "name": "Placaje",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Látigo",
+          "attack_type": "normal",
+          "min_level": 37,
+          "damage": 30
+        },
+        {
+          "name": "Ataque Rápido",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Impactrueno",
+          "attack_type": "electrico",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Ataque Arena",
+          "attack_type": "tierra",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Impactrueno",
+          "attack_type": "electrico",
+          "min_level": 31,
+          "damage": 40
+        },
+        {
+          "name": "Ataque Rápido",
+          "attack_type": "normal",
+          "min_level": 27,
+          "damage": 40
+        },
+        {
+          "name": "Doble Patada",
+          "attack_type": "lucha",
+          "min_level": 42,
+          "damage": 30
+        },
+        {
+          "name": "Pin Misil",
+          "attack_type": "bicho",
+          "min_level": 48,
+          "damage": 25
+        },
+        {
+          "name": "Onda Trueno",
+          "attack_type": "electrico",
+          "min_level": 40,
+          "damage": 30
+        },
+        {
+          "name": "Agilidad",
+          "attack_type": "psiquico",
+          "min_level": 44,
+          "damage": 30
+        },
+        {
+          "name": "Trueno",
+          "attack_type": "electrico",
+          "min_level": 54,
+          "damage": 110
+        }
+      ]
+    },
+    {
+      "name": "Flareon",
+      "base_health": 100,
+      "types": ["fuego"],
+      "attacks": [
+        {
+          "name": "Placaje",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Látigo",
+          "attack_type": "normal",
+          "min_level": 37,
+          "damage": 30
+        },
+        {
+          "name": "Ataque Rápido",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Ascuas",
+          "attack_type": "fuego",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Ataque Arena",
+          "attack_type": "tierra",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Ascuas",
+          "attack_type": "fuego",
+          "min_level": 31,
+          "damage": 40
+        },
+        {
+          "name": "Ataque Rápido",
+          "attack_type": "normal",
+          "min_level": 27,
+          "damage": 40
+        },
+        {
+          "name": "Mordisco",
+          "attack_type": "siniestro",
+          "min_level": 40,
+          "damage": 60
+        },
+        {
+          "name": "Giro Fuego",
+          "attack_type": "fuego",
+          "min_level": 44,
+          "damage": 35
+        },
+        {
+          "name": "Polución",
+          "attack_type": "veneno",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Malicioso",
+          "attack_type": "normal",
+          "min_level": 42,
+          "damage": 30
+        },
+        {
+          "name": "Furia",
+          "attack_type": "normal",
+          "min_level": 48,
+          "damage": 20
+        },
+        {
+          "name": "Lanzallamas",
+          "attack_type": "fuego",
+          "min_level": 54,
+          "damage": 90
+        }
+      ]
+    },
+    {
+      "name": "Porygon",
+      "base_health": 100,
+      "types": ["normal"],
+      "attacks": [
+        {
+          "name": "Placaje",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Afilar",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Conversión",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Psicorrayo",
+          "attack_type": "psiquico",
+          "min_level": 23,
+          "damage": 65
+        },
+        {
+          "name": "Recuperación",
+          "attack_type": "normal",
+          "min_level": 28,
+          "damage": 30
+        },
+        {
+          "name": "Agilidad",
+          "attack_type": "psiquico",
+          "min_level": 35,
+          "damage": 30
+        },
+        {
+          "name": "Triataque",
+          "attack_type": "normal",
+          "min_level": 42,
+          "damage": 80
+        }
+      ]
+    },
+    {
+      "name": "Omanyte",
+      "base_health": 100,
+      "types": ["roca", "agua"],
+      "attacks": [
+        {
+          "name": "Pistola Agua",
+          "attack_type": "agua",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Refugio",
+          "attack_type": "agua",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Cornada",
+          "attack_type": "normal",
+          "min_level": 34,
+          "damage": 65
+        },
+        {
+          "name": "Malicioso",
+          "attack_type": "normal",
+          "min_level": 39,
+          "damage": 30
+        },
+        {
+          "name": "Clavo Cañón",
+          "attack_type": "normal",
+          "min_level": 46,
+          "damage": 20
+        },
+        {
+          "name": "Hidrobomba",
+          "attack_type": "agua",
+          "min_level": 53,
+          "damage": 110
+        }
+      ]
+    },
+    {
+      "name": "Omastar",
+      "base_health": 100,
+      "types": ["roca", "agua"],
+      "attacks": [
+        {
+          "name": "Pistola Agua",
+          "attack_type": "agua",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Refugio",
+          "attack_type": "agua",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Cornada",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 65
+        },
+        {
+          "name": "Cornada",
+          "attack_type": "normal",
+          "min_level": 34,
+          "damage": 65
+        },
+        {
+          "name": "Malicioso",
+          "attack_type": "normal",
+          "min_level": 39,
+          "damage": 30
+        },
+        {
+          "name": "Clavo Cañón",
+          "attack_type": "normal",
+          "min_level": 44,
+          "damage": 20
+        },
+        {
+          "name": "Hidrobomba",
+          "attack_type": "agua",
+          "min_level": 49,
+          "damage": 110
+        }
+      ]
+    },
+    {
+      "name": "Kabuto",
+      "base_health": 100,
+      "types": ["roca", "agua"],
+      "attacks": [
+        {
+          "name": "Arañazo",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Fortaleza",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Absorber",
+          "attack_type": "planta",
+          "min_level": 34,
+          "damage": 20
+        },
+        {
+          "name": "Cuchillada",
+          "attack_type": "normal",
+          "min_level": 39,
+          "damage": 70
+        },
+        {
+          "name": "Malicioso",
+          "attack_type": "normal",
+          "min_level": 44,
+          "damage": 30
+        },
+        {
+          "name": "Hidrobomba",
+          "attack_type": "agua",
+          "min_level": 49,
+          "damage": 110
+        }
+      ]
+    },
+    {
+      "name": "Kabutops",
+      "base_health": 100,
+      "types": ["roca", "agua"],
+      "attacks": [
+        {
+          "name": "Arañazo",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Fortaleza",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Absorber",
+          "attack_type": "planta",
+          "min_level": 1,
+          "damage": 20
+        },
+        {
+          "name": "Absorber",
+          "attack_type": "planta",
+          "min_level": 34,
+          "damage": 20
+        },
+        {
+          "name": "Cuchillada",
+          "attack_type": "normal",
+          "min_level": 39,
+          "damage": 70
+        },
+        {
+          "name": "Malicioso",
+          "attack_type": "normal",
+          "min_level": 46,
+          "damage": 30
+        },
+        {
+          "name": "Hidrobomba",
+          "attack_type": "agua",
+          "min_level": 53,
+          "damage": 110
+        }
+      ]
+    },
+    {
+      "name": "Aerodactyl",
+      "base_health": 100,
+      "types": ["roca", "volador"],
+      "attacks": [
+        {
+          "name": "Ataque Ala",
+          "attack_type": "volador",
+          "min_level": 1,
+          "damage": 60
+        },
+        {
+          "name": "Agilidad",
+          "attack_type": "psiquico",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Supersónico",
+          "attack_type": "normal",
+          "min_level": 33,
+          "damage": 30
+        },
+        {
+          "name": "Mordisco",
+          "attack_type": "siniestro",
+          "min_level": 38,
+          "damage": 60
+        },
+        {
+          "name": "Derribo",
+          "attack_type": "normal",
+          "min_level": 45,
+          "damage": 90
+        },
+        {
+          "name": "Hiperrayo",
+          "attack_type": "normal",
+          "min_level": 54,
+          "damage": 150
+        }
+      ]
+    },
+    {
+      "name": "Snorlax",
+      "base_health": 100,
+      "types": ["normal"],
+      "attacks": [
+        {
+          "name": "Golpe Cabeza",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 70
+        },
+        {
+          "name": "Amnesia",
+          "attack_type": "psiquico",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Descanso",
+          "attack_type": "psiquico",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Golpe Cuerpo",
+          "attack_type": "normal",
+          "min_level": 35,
+          "damage": 85
+        },
+        {
+          "name": "Fortaleza",
+          "attack_type": "normal",
+          "min_level": 41,
+          "damage": 30
+        },
+        {
+          "name": "Doble Filo",
+          "attack_type": "normal",
+          "min_level": 48,
+          "damage": 120
+        },
+        {
+          "name": "Hiperrayo",
+          "attack_type": "normal",
+          "min_level": 56,
+          "damage": 150
+        }
+      ]
+    },
+    {
+      "name": "Articuno",
+      "base_health": 100,
+      "types": ["hielo", "volador"],
+      "attacks": [
+        {
+          "name": "Picotazo",
+          "attack_type": "volador",
+          "min_level": 1,
+          "damage": 35
+        },
+        {
+          "name": "Rayo Hielo",
+          "attack_type": "hielo",
+          "min_level": 1,
+          "damage": 90
+        },
+        {
+          "name": "Ventisca",
+          "attack_type": "hielo",
+          "min_level": 51,
+          "damage": 110
+        },
+        {
+          "name": "Agilidad",
+          "attack_type": "psiquico",
+          "min_level": 55,
+          "damage": 30
+        },
+        {
+          "name": "Neblina",
+          "attack_type": "hielo",
+          "min_level": 60,
+          "damage": 30
+        }
+      ]
+    },
+    {
+      "name": "Zapdos",
+      "base_health": 100,
+      "types": ["electrico", "volador"],
+      "attacks": [
+        {
+          "name": "Impactrueno",
+          "attack_type": "electrico",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Pico Taladro",
+          "attack_type": "volador",
+          "min_level": 1,
+          "damage": 80
+        },
+        {
+          "name": "Trueno",
+          "attack_type": "electrico",
+          "min_level": 51,
+          "damage": 110
+        },
+        {
+          "name": "Agilidad",
+          "attack_type": "psiquico",
+          "min_level": 55,
+          "damage": 30
+        },
+        {
+          "name": "Pantalla de Luz",
+          "attack_type": "psiquico",
+          "min_level": 60,
+          "damage": 30
+        }
+      ]
+    },
+    {
+      "name": "Moltres",
+      "base_health": 100,
+      "types": ["fuego", "volador"],
+      "attacks": [
+        {
+          "name": "Picotazo",
+          "attack_type": "volador",
+          "min_level": 1,
+          "damage": 35
+        },
+        {
+          "name": "Giro Fuego",
+          "attack_type": "fuego",
+          "min_level": 1,
+          "damage": 35
+        },
+        {
+          "name": "Malicioso",
+          "attack_type": "normal",
+          "min_level": 51,
+          "damage": 30
+        },
+        {
+          "name": "Agilidad",
+          "attack_type": "psiquico",
+          "min_level": 55,
+          "damage": 30
+        },
+        {
+          "name": "Ataque Aéreo",
+          "attack_type": "volador",
+          "min_level": 60,
+          "damage": 140
+        }
+      ]
+    },
+    {
+      "name": "Dratini",
+      "base_health": 100,
+      "types": ["dragon"],
+      "attacks": [
+        {
+          "name": "Constricción",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 15
+        },
+        {
+          "name": "Malicioso",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Onda Trueno",
+          "attack_type": "electrico",
+          "min_level": 10,
+          "damage": 30
+        },
+        {
+          "name": "Agilidad",
+          "attack_type": "psiquico",
+          "min_level": 20,
+          "damage": 30
+        },
+        {
+          "name": "Atizar",
+          "attack_type": "normal",
+          "min_level": 30,
+          "damage": 80
+        },
+        {
+          "name": "Furia Dragón",
+          "attack_type": "dragon",
+          "min_level": 40,
+          "damage": 1
+        },
+        {
+          "name": "Hiperrayo",
+          "attack_type": "normal",
+          "min_level": 50,
+          "damage": 150
+        }
+      ]
+    },
+    {
+      "name": "Dragonair",
+      "base_health": 100,
+      "types": ["dragon"],
+      "attacks": [
+        {
+          "name": "Constricción",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 15
+        },
+        {
+          "name": "Malicioso",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Onda Trueno",
+          "attack_type": "electrico",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Onda Trueno",
+          "attack_type": "electrico",
+          "min_level": 10,
+          "damage": 30
+        },
+        {
+          "name": "Agilidad",
+          "attack_type": "psiquico",
+          "min_level": 20,
+          "damage": 30
+        },
+        {
+          "name": "Atizar",
+          "attack_type": "normal",
+          "min_level": 35,
+          "damage": 80
+        },
+        {
+          "name": "Furia Dragón",
+          "attack_type": "dragon",
+          "min_level": 45,
+          "damage": 1
+        },
+        {
+          "name": "Hiperrayo",
+          "attack_type": "normal",
+          "min_level": 55,
+          "damage": 150
+        }
+      ]
+    },
+    {
+      "name": "Dragonite",
+      "base_health": 100,
+      "types": ["dragon", "volador"],
+      "attacks": [
+        {
+          "name": "Constricción",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 15
+        },
+        {
+          "name": "Malicioso",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Onda Trueno",
+          "attack_type": "electrico",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Agilidad",
+          "attack_type": "psiquico",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Onda Trueno",
+          "attack_type": "electrico",
+          "min_level": 10,
+          "damage": 30
+        },
+        {
+          "name": "Agilidad",
+          "attack_type": "psiquico",
+          "min_level": 20,
+          "damage": 30
+        },
+        {
+          "name": "Atizar",
+          "attack_type": "normal",
+          "min_level": 35,
+          "damage": 80
+        },
+        {
+          "name": "Furia Dragón",
+          "attack_type": "dragon",
+          "min_level": 45,
+          "damage": 1
+        },
+        {
+          "name": "Hiperrayo",
+          "attack_type": "normal",
+          "min_level": 60,
+          "damage": 150
+        }
+      ]
+    },
+    {
+      "name": "Mewtwo",
+      "base_health": 100,
+      "types": ["psiquico"],
+      "attacks": [
+        {
+          "name": "Confusión",
+          "attack_type": "psiquico",
+          "min_level": 1,
+          "damage": 50
+        },
+        {
+          "name": "Anulación",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 30
+        },
+        {
+          "name": "Rapidez",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 60
+        },
+        {
+          "name": "Psíquico",
+          "attack_type": "psiquico",
+          "min_level": 1,
+          "damage": 90
+        },
+        {
+          "name": "Barrera",
+          "attack_type": "psiquico",
+          "min_level": 63,
+          "damage": 30
+        },
+        {
+          "name": "Psíquico",
+          "attack_type": "psiquico",
+          "min_level": 66,
+          "damage": 90
+        },
+        {
+          "name": "Recuperación",
+          "attack_type": "normal",
+          "min_level": 70,
+          "damage": 30
+        },
+        {
+          "name": "Neblina",
+          "attack_type": "hielo",
+          "min_level": 75,
+          "damage": 30
+        },
+        {
+          "name": "Amnesia",
+          "attack_type": "psiquico",
+          "min_level": 81,
+          "damage": 30
+        }
+      ]
+    },
+    {
+      "name": "Mew",
+      "base_health": 100,
+      "types": ["psiquico"],
+      "attacks": [
+        {
+          "name": "Destructor",
+          "attack_type": "normal",
+          "min_level": 1,
+          "damage": 40
+        },
+        {
+          "name": "Transformación",
+          "attack_type": "normal",
+          "min_level": 10,
+          "damage": 30
+        },
+        {
+          "name": "Megapuño",
+          "attack_type": "normal",
+          "min_level": 20,
+          "damage": 80
+        },
+        {
+          "name": "Metrónomo",
+          "attack_type": "normal",
+          "min_level": 30,
+          "damage": 30
+        },
+        {
+          "name": "Psíquico",
+          "attack_type": "psiquico",
+          "min_level": 40,
+          "damage": 90
+        }
+      ]
+    }
+  ]
+}
